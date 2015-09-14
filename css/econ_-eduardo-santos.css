@@ -1,0 +1,317 @@
+.version.econ__eduardo_santos /* version checker */
+{
+	color: #000004;
+	background-color: #15C773;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/puntos.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 800px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 187px;
+	padding-bottom: 58px;
+	width: 0.01px;
+}
+
+#u523
+{
+	z-index: 261;
+	height: 127px;
+}
+
+#u523-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 261;
+	top: 0px;
+}
+
+#u524
+{
+	z-index: 262;
+	width: 121px;
+	height: 93px;
+	top: 15px;
+	left: 149px;
+}
+
+#u525-4
+{
+	z-index: 263;
+	top: 29px;
+	left: 407px;
+}
+
+#u526-4
+{
+	z-index: 267;
+	top: 74px;
+	left: 315px;
+}
+
+#u527-4
+{
+	z-index: 271;
+	top: 74px;
+	left: 393px;
+}
+
+#u528-4
+{
+	z-index: 275;
+	top: 74px;
+	left: 532px;
+}
+
+#u529-4
+{
+	z-index: 279;
+	top: 74px;
+	left: 760px;
+}
+
+#u530-4
+{
+	z-index: 283;
+	top: 74px;
+	left: 922px;
+}
+
+#u19031
+{
+	z-index: 252;
+	width: 163px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 142px;
+	right: 63px;
+}
+
+#u19033
+{
+	z-index: 256;
+	-webkit-transform: matrix(0,1,-1,0,60,-1);
+	-ms-transform: matrix(0,1,-1,0,60,-1);
+	transform: matrix(0,1,-1,0,60,-1);
+	position: relative;
+	width: 60px;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u19033_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u19032
+{
+	z-index: 254;
+	position: relative;
+	width: 97px;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 66px;
+}
+
+#u19032_states
+{
+	height: 33px;
+	width: 97px;
+	vertical-align: top;
+	background: url("../images/u19032_states.png") no-repeat 0px 0px;
+}
+
+#u19032:hover #u19032_states
+{
+	background: url("../images/u19032_states-r.png") no-repeat 0px 0px;
+}
+
+#u15449
+{
+	z-index: 2;
+	width: 714px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #E4A10B;
+	border-radius: 10px 10px 0px 0px ;
+	padding-bottom: 2px;
+	margin-left: 250px;
+	position: relative;
+}
+
+#u15450-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 24px;
+}
+
+#u15451
+{
+	z-index: 7;
+	width: 611px;
+	height: 4px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #E4A10B;
+	margin-left: 519px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#ppu15452
+{
+	width: 0.01px;
+	margin-left: 142px;
+	margin-top: 12px;
+}
+
+#pu15452
+{
+	z-index: 8;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-left: 108px;
+}
+
+#u15452
+{
+	z-index: 0;
+	width: 880px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.74;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=74)";
+	filter: alpha(opacity=74);
+	border-radius: 10px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu15679-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 59px;
+	padding-top: 21px;
+	z-index: 2;
+	padding-bottom: 5px;
+}
+
+#u15679-4
+{
+	z-index: 244;
+	width: 401px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #E4A10B;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u15446-234
+{
+	z-index: 10;
+	width: 820px;
+	min-height: 998px;
+	background-color: transparent;
+	color: #FFFFFF;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u15446-2,#u15446-6,#u15446-7,#u15446-11,#u15446-12,#u15446-16,#u15446-17,#u15446-21
+{
+	text-transform: uppercase;
+}
+
+#u20436
+{
+	z-index: 9;
+	width: 72px;
+	height: 137px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 925px;
+}
+
+.ie #u20436
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u21336-4
+{
+	z-index: 248;
+	width: 124px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #E4A10B;
+	line-height: 24px;
+	font-size: 20px;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1039px;
+	left: 854px;
+}
+
+#u20169-3
+{
+	z-index: 258;
+	width: 5px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 222px;
+	left: 1239px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

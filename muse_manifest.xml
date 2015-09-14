@@ -1,0 +1,871 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.colegiodeeconomistas.org.ec" resolutions="1x" timestamp="1442247906961">
+  <folder name="css">
+    <file name="site_global.css" crc="294701860"/>
+    <file name="master_a-master.css" crc="3962517788" ref="textos-sugeridos,-pag-2:econ.-eduardo-santos:aportes-para-estudio:la-institucion:econ.-eduardo-santos,-p2:aviso-importante:otros-aportes-del-cep:links:index:sesion-solemne-2013:biblioteca-virtual:textos-sugeridos,-pag-3:sesion-solemne-2012:presidentes:galerias-pag2:sesion-solemne-2011:eventos:galerias,-copias:textos-sugeridos:capacitacion:lecturas-recomendadas:contact"/>
+    <file name="textos-sugeridos_-pag-2.css" crc="185603801" ref="textos-sugeridos,-pag-2"/>
+    <file name="iefonts_textos-sugeridos_-pag-2.css" crc="328485271" ref="textos-sugeridos,-pag-2"/>
+    <file name="econ_-eduardo-santos.css" crc="68536179" ref="econ.-eduardo-santos"/>
+    <file name="aportes-para-estudio.css" crc="3857904454" ref="aportes-para-estudio"/>
+    <file name="la-institucion.css" crc="4010918225" ref="la-institucion"/>
+    <file name="iefonts_la-institucion.css" crc="4191195629" ref="la-institucion"/>
+    <file name="econ_-eduardo-santos_-p2.css" crc="4156290425" ref="econ.-eduardo-santos,-p2"/>
+    <file name="aviso-importante.css" crc="3841926412" ref="aviso-importante"/>
+    <file name="otros-aportes-del-cep.css" crc="294577804" ref="otros-aportes-del-cep"/>
+    <file name="links.css" crc="4205250609" ref="links"/>
+    <file name="iefonts_links.css" crc="3934487288" ref="links"/>
+    <file name="index.css" crc="3965603612" ref="index"/>
+    <file name="sesion-solemne-2013.css" crc="366376525" ref="sesion-solemne-2013"/>
+    <file name="biblioteca-virtual.css" crc="265907489" ref="biblioteca-virtual"/>
+    <file name="iefonts_biblioteca-virtual.css" crc="4193290873" ref="biblioteca-virtual"/>
+    <file name="textos-sugeridos_-pag-3.css" crc="4132154612" ref="textos-sugeridos,-pag-3"/>
+    <file name="iefonts_textos-sugeridos_-pag-3.css" crc="35102778" ref="textos-sugeridos,-pag-3"/>
+    <file name="sesion-solemne-2012.css" crc="4093158708" ref="sesion-solemne-2012"/>
+    <file name="presidentes.css" crc="3901047659" ref="presidentes"/>
+    <file name="galerias-pag2.css" crc="3825261921" ref="galerias-pag2"/>
+    <file name="iefonts_galerias-pag2.css" crc="3763661793" ref="galerias-pag2"/>
+    <file name="sesion-solemne-2011.css" crc="4267257189" ref="sesion-solemne-2011"/>
+    <file name="eventos.css" crc="46547571" ref="eventos"/>
+    <file name="galerias_-copias.css" crc="331775393" ref="galerias,-copias"/>
+    <file name="textos-sugeridos.css" crc="4017351868" ref="textos-sugeridos"/>
+    <file name="capacitacion.css" crc="4088518631" ref="capacitacion"/>
+    <file name="iefonts_capacitacion.css" crc="3760660925" ref="capacitacion"/>
+    <file name="lecturas-recomendadas.css" crc="149672682" ref="lecturas-recomendadas"/>
+    <file name="contact.css" crc="4040944069" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <folder name="btnnuevo">
+      <folder name="edge_includes">
+        <file name="edge.4.0.1.min.js" crc="33473900" mt="1412287463000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1412287463000"/>
+      </folder>
+      <folder name="images">
+        <file name="iconNew.png" crc="329683789" mt="1412287463000"/>
+      </folder>
+      <file name="transparent.png" crc="237040886" mt="1412287463000"/>
+      <file name="btnNuevo_edge.js" crc="3868607026" mt="1412287463000"/>
+      <file name="btnNuevo_edgeActions.js" crc="4266099043" mt="1412287463000"/>
+      <file name="btnNuevo_edgePreload.js" crc="3986143070" mt="1412287463000"/>
+      <file name="btnNuevo.html" crc="425820741" mt="1412287463000"/>
+    </folder>
+    <file name="formactualizacion.doc" crc="85348293" seo="true" mt="1396650640000"/>
+    <file name="formularioingreso.doc" crc="4088489434" seo="true" mt="1396650570000"/>
+    <file name="revista_informativa.pdf" crc="57400281" seo="true" mt="1397588992000"/>
+    <file name="proteccioncontraelhambre.doc" crc="4154814844" seo="true" mt="1398658772000"/>
+    <file name="que_-es_-economia.doc" crc="4208243107" seo="true" mt="1398659047000"/>
+    <file name="curriculum-de-econ.-victor-hugo-alban.docx" crc="3800862403" seo="true" mt="1398700004000"/>
+    <file name="bcopichincha.pdf" crc="308075774" seo="true" mt="1399064998000"/>
+    <file name="carta_frasilan2.pdf" crc="3898027916" seo="true" mt="1399065642000"/>
+    <file name="agendasesion2012.pdf" crc="3809345702" seo="true" mt="1399070639000"/>
+    <file name="invitacion2012.pdf" crc="4009384026" seo="true" mt="1399072155000"/>
+    <file name="agenda2011.pdf" crc="4255886371" seo="true" mt="1399072627000"/>
+    <file name="invitacion.jpg" crc="460852788" seo="true" mt="1399072880000"/>
+    <file name="esa-nro-1.doc" crc="484452990" seo="true" mt="1399074220000"/>
+    <file name="esa-nro-2.doc" crc="4056556340" seo="true" mt="1399074219000"/>
+    <file name="esa-nro-3.doc" crc="3999111658" seo="true" mt="1399074219000"/>
+    <file name="esa-nro-4.doc" crc="428818164" seo="true" mt="1399074217000"/>
+    <file name="esa-nro-5.doc" crc="3802780301" seo="true" mt="1399074216000"/>
+    <file name="esa-nro-6.doc" crc="368145657" seo="true" mt="1399074215000"/>
+    <file name="esa-nro-7.doc" crc="34305141" seo="true" mt="1399074214000"/>
+    <file name="esa-nro-8.doc" crc="284368477" seo="true" mt="1399074213000"/>
+    <file name="esa-nro-9.doc" crc="286649250" seo="true" mt="1399074212000"/>
+    <file name="esa-nro-10.doc" crc="3958412030" seo="true" mt="1399074209000"/>
+    <file name="esa-nro-11.doc" crc="3874538757" seo="true" mt="1399074208000"/>
+    <file name="esa-nro-12.doc" crc="452852993" seo="true" mt="1399074207000"/>
+    <file name="esa-nro-13.doc" crc="4015218618" seo="true" mt="1399074206000"/>
+    <file name="esa-nro-14.doc" crc="273996201" seo="true" mt="1399074205000"/>
+    <file name="esa-nro-15.doc" crc="4138334767" seo="true" mt="1399074204000"/>
+    <file name="esa-nro-16.doc" crc="29449163" seo="true" mt="1399074203000"/>
+    <file name="esa-nro-17.doc" crc="3968672179" seo="true" mt="1399074203000"/>
+    <file name="esa-nro-18.doc" crc="4144887176" seo="true" mt="1399074202000"/>
+    <file name="esa-nro-19.doc" crc="3823648582" seo="true" mt="1399074201000"/>
+    <file name="esa-nro-20.doc" crc="3994479062" seo="true" mt="1399074200000"/>
+    <file name="esa-nro-21.doc" crc="223982486" seo="true" mt="1399074199000"/>
+    <file name="esa-nro-22.doc" crc="155911452" seo="true" mt="1399074198000"/>
+    <file name="esa-nro-23.doc" crc="4036900317" seo="true" mt="1399074197000"/>
+    <file name="esa-nro-24.doc" crc="272585679" seo="true" mt="1399074196000"/>
+    <file name="esa-nro-25.doc" crc="3815297239" seo="true" mt="1399074190000"/>
+    <file name="esa-nro-26.doc" crc="109332390" seo="true" mt="1399074189000"/>
+    <file name="esa-nro-27.doc" crc="4133583818" seo="true" mt="1399074188000"/>
+    <file name="esa-nro-28.doc" crc="480312954" seo="true" mt="1399074187000"/>
+    <file name="esa-nro-29.doc" crc="3972753808" seo="true" mt="1399074186000"/>
+    <file name="esa-nro-30.doc" crc="447705445" seo="true" mt="1399074182000"/>
+    <file name="esa-nro-31.doc" crc="412848553" seo="true" mt="1399074181000"/>
+    <file name="esa-nro-32.doc" crc="27927011" seo="true" mt="1399074180000"/>
+    <file name="esa-nro-33.doc" crc="4124306747" seo="true" mt="1399074179000"/>
+    <file name="esa-nro-34.doc" crc="187878489" seo="true" mt="1399074177000"/>
+    <file name="esa-nro-35.doc" crc="107861332" seo="true" mt="1399074176000"/>
+    <file name="esa-nro-36.doc" crc="3771644744" seo="true" mt="1399074175000"/>
+    <file name="esa-nro-37.doc" crc="307923311" seo="true" mt="1399074174000"/>
+    <file name="esa-nro-38.doc" crc="4140519333" seo="true" mt="1399074172000"/>
+    <file name="esa-nro-39.doc" crc="4117078903" seo="true" mt="1399074171000"/>
+    <file name="esa-nro-40.doc" crc="3908095405" seo="true" mt="1399074170000"/>
+    <file name="esa-nro-41.doc" crc="450963536" seo="true" mt="1399074168000"/>
+    <file name="esa-nro-42.doc" crc="3891812719" seo="true" mt="1399074167000"/>
+    <file name="esa-nro-43.doc" crc="520273588" seo="true" mt="1399074166000"/>
+    <file name="esa-nro-44.doc" crc="66396274" seo="true" mt="1399074165000"/>
+    <file name="esa-nro-45.doc" crc="4057593019" seo="true" mt="1399074163000"/>
+    <file name="esa-nro-46.doc" crc="106657748" seo="true" mt="1399074161000"/>
+    <file name="esa-nro-47.doc" crc="3928054841" seo="true" mt="1399074160000"/>
+    <file name="esa-nro-48.doc" crc="326290087" seo="true" mt="1399074158000"/>
+    <file name="esa-nro-49.doc" crc="188598378" seo="true" mt="1399074156000"/>
+    <file name="esa-nro-51.doc" crc="114686946" seo="true" mt="1399074155000"/>
+    <file name="esa-nro-52.doc" crc="3849967591" seo="true" mt="1399074153000"/>
+    <file name="esa-nro-53.doc" crc="347909832" seo="true" mt="1399074152000"/>
+    <file name="esa-nro-54.doc" crc="523347320" seo="true" mt="1399074150000"/>
+    <file name="esa-nro-55.doc" crc="60544760" seo="true" mt="1399074149000"/>
+    <file name="esa-nro-56.doc" crc="3929885353" seo="true" mt="1399074147000"/>
+    <file name="esa-nro-57.doc" crc="427034115" seo="true" mt="1399074145000"/>
+    <file name="esa-nro-58.doc" crc="3888161581" seo="true" mt="1399074143000"/>
+    <file name="esa-nro-59.doc" crc="4075976508" seo="true" mt="1399074141000"/>
+    <file name="esa-nro-60.doc" crc="371363862" seo="true" mt="1399074140000"/>
+    <file name="esa-nro-61.doc" crc="3765854485" seo="true" mt="1399074138000"/>
+    <file name="esa-nro-62.doc" crc="392050686" seo="true" mt="1399074137000"/>
+    <file name="esa-nro-63.doc" crc="4007246770" seo="true" mt="1399074135000"/>
+    <file name="esa-nro-64.doc" crc="4162611504" seo="true" mt="1399074130000"/>
+    <file name="esa-nro-65.doc" crc="4150156209" seo="true" mt="1399074128000"/>
+    <file name="esa-nro-66.doc" crc="4037329625" seo="true" mt="1399074126000"/>
+    <file name="esa-nro-67.doc" crc="377909768" seo="true" mt="1399074124000"/>
+    <file name="esa-nro-68.doc" crc="166943538" seo="true" mt="1399074122000"/>
+    <file name="esa-nro-69.doc" crc="453734913" seo="true" mt="1399074079000"/>
+    <file name="esa-nro-70.doc" crc="101602211" seo="true" mt="1399074077000"/>
+    <file name="esa-nro-71.doc" crc="4185551304" seo="true" mt="1399074075000"/>
+    <file name="esa-nro-72.doc" crc="55743496" seo="true" mt="1399074073000"/>
+    <file name="esa-nro-73.doc" crc="344688169" seo="true" mt="1399074071000"/>
+    <file name="esa-nro-74.doc" crc="3952441403" seo="true" mt="1399074070000"/>
+    <file name="esa-nro-75.doc" crc="525981649" seo="true" mt="1399074068000"/>
+    <file name="esa-nro-76.doc" crc="4056069886" seo="true" mt="1399074066000"/>
+    <file name="esa-nro-77.doc" crc="206213899" seo="true" mt="1399074064000"/>
+    <file name="esa-nro-78.doc" crc="4287049971" seo="true" mt="1399074062000"/>
+    <file name="esa-nro-79.doc" crc="4099110134" seo="true" mt="1399074060000"/>
+    <file name="esa-nro-81.doc" crc="3760144116" seo="true" mt="1399074047000"/>
+    <file name="esa-nro-82.doc" crc="320936621" seo="true" mt="1399074044000"/>
+    <file name="esa-nro-83.doc" crc="145924904" seo="true" mt="1399074043000"/>
+    <file name="esa-nro-84.doc" crc="3850982745" seo="true" mt="1399074041000"/>
+    <file name="esa-nro-85.doc" crc="477725143" seo="true" mt="1399074039000"/>
+    <file name="esa-nro-86.doc" crc="4074683328" seo="true" mt="1399074037000"/>
+    <file name="esa-nro-87.doc" crc="39738135" seo="true" mt="1399074035000"/>
+    <file name="esa-nro-88.doc" crc="4274328490" seo="true" mt="1399074033000"/>
+    <file name="esa-nro-89.doc" crc="4061475158" seo="true" mt="1399074031000"/>
+    <file name="esa-nro-90.doc" crc="51677393" seo="true" mt="1399074029000"/>
+    <file name="esa-nro-91.doc" crc="534248887" seo="true" mt="1399074027000"/>
+    <file name="esa-nro-92.doc" crc="4017350124" seo="true" mt="1399074025000"/>
+    <file name="esa-nro-93.doc" crc="123845136" seo="true" mt="1399074023000"/>
+    <file name="esa-nro-94.doc" crc="4110434639" seo="true" mt="1399074021000"/>
+    <file name="esa-nro-95.doc" crc="3882382644" seo="true" mt="1399074020000"/>
+    <file name="esa-nro-96.doc" crc="3958143333" seo="true" mt="1399074019000"/>
+    <file name="esa-nro-97.doc" crc="4283962657" seo="true" mt="1399074017000"/>
+    <file name="esa-nro-98.doc" crc="160330556" seo="true" mt="1399074014000"/>
+    <file name="esa-nro-99.doc" crc="3855456794" seo="true" mt="1399074011000"/>
+    <file name="esa-nro-100.doc" crc="3873771224" seo="true" mt="1399074008000"/>
+    <file name="avisos-importantes.pdf" crc="3810162383" seo="true" mt="1399084727000"/>
+    <file name="sugerencias-texto-cep-26.pdf" crc="4055310213" seo="true" mt="1399084662000"/>
+    <file name="invitacion2014.pdf" crc="289920206" seo="true" mt="1399948585000"/>
+    <file name="invitacion2013.jpg" crc="111247635" seo="true" mt="1400026328000"/>
+    <file name="progra2013.pdf" crc="4167845995" seo="true" mt="1400026639000"/>
+    <file name="listaasociadosaz.pdf" crc="464420535" seo="true" mt="1400036398000"/>
+    <file name="palabraseconluis-luna.pdf" crc="159587791" seo="true" mt="1402373170000"/>
+    <file name="esa-nro-101.doc" crc="396608736" seo="true" mt="1403053402000"/>
+    <file name="esa-nro-102.doc" crc="4264295222" seo="true" mt="1402365060000"/>
+    <file name="esa-nro-103.doc" crc="394835529" seo="true" mt="1402365070000"/>
+    <file name="esa-nro-104.doc" crc="135161952" seo="true" mt="1403053370000"/>
+    <file name="esa-nro-105.doc" crc="478156970" seo="true" mt="1404584044000"/>
+    <file name="esa-nro-106.doc" crc="126458391" seo="true" mt="1404583918000"/>
+    <file name="esa-nro-107.doc" crc="175622401" seo="true" mt="1404583754000"/>
+    <file name="esa-nro-109.doc" crc="256896176" seo="true" mt="1406141922000"/>
+    <file name="esa-nro-108.doc" crc="3936245166" seo="true" mt="1406142072000"/>
+    <file name="reporte-de-consistencia-macroeconómico-rcm--de-julio.pdf" crc="217666924" seo="true" mt="1407352636000"/>
+    <file name="esa-nro-110.doc" crc="367872254" seo="true" mt="1407849364000"/>
+    <file name="esa-nro-111.doc" crc="214532214" seo="true" mt="1407849174000"/>
+    <file name="esa-nro-112.doc" crc="4251836505" seo="true" mt="1408449962000"/>
+    <file name="imf-2014-consultation-with-ecuador.pdf" crc="138962638" seo="true" mt="1409622294000"/>
+    <file name="panoramaeconomicoysocial.pdf" crc="303693603" seo="true" mt="1409622294000"/>
+    <file name="panoramasocial2013docinf.pdf" crc="3950549281" seo="true" mt="1409622294000"/>
+    <file name="rve112completa.pdf" crc="3978111555" seo="true" mt="1409622124000"/>
+    <file name="estatutos.pdf" crc="4049887374" seo="true" mt="1412612135000"/>
+    <file name="boletin-no-113.doc" crc="424715118" seo="true" mt="1414175346000"/>
+    <file name="boletin-no-114.doc" crc="3935755028" seo="true" mt="1414175344000"/>
+    <file name="boletin-no-115.doc" crc="4007331514" seo="true" mt="1414175340000"/>
+    <file name="boletin-no-116.doc" crc="283989014" seo="true" mt="1414175338000"/>
+    <file name="boletin-no-117.doc" crc="254083430" seo="true" mt="1414175330000"/>
+    <file name="rcm-27-(oct-2014).pdf" crc="175103700" seo="true" mt="1414756630000"/>
+    <file name="rcm-28-(nov-2014).pdf" crc="3913978819" seo="true" mt="1417111078000"/>
+    <file name="boletin-no-118.doc" crc="536648870" seo="true" mt="1417612736000"/>
+    <file name="boletin-no-119.doc" crc="4086715420" seo="true" mt="1417612760000"/>
+    <file name="boletin-no-120.doc" crc="4146104147" seo="true" mt="1417612762000"/>
+    <file name="koyuntura--50-dic-2014---plp--petroleo.pdf" crc="119976082" seo="true" mt="1418905496000"/>
+    <file name="att00007.pdf" crc="4134310113" seo="true" mt="1421429878000"/>
+    <file name="lo-comun-de-las-virtudes.pdf" crc="176591109" seo="true" mt="1421429878000"/>
+    <file name="las-virtudes-de-la-modestia.docx" crc="4040150272" seo="true" mt="1425667090000"/>
+    <file name="boletin-no-121.doc" crc="125182456" seo="true" mt="1426163784000"/>
+    <file name="boletin-no-122.doc" crc="724996" seo="true" mt="1426163708000"/>
+    <file name="boletin-no-123.doc" crc="4231715127" seo="true" mt="1426163568000"/>
+    <file name="boletin-no-124.doc" crc="3857781100" seo="true" mt="1426163660000"/>
+    <file name="boletin-no-125.doc" crc="4271712464" seo="true" mt="1426163518000"/>
+    <file name="boletin-no-126.doc" crc="4074385039" seo="true" mt="1426163418000"/>
+    <file name="invitación-análisis-económico-nro-27.docx" crc="150296129" seo="true" mt="1427453272000"/>
+    <file name="presentación-libro-visa.jpg" crc="3950236187" seo="true" mt="1427997964000"/>
+    <file name="final-report_-consultations-on-growth-and-employment.pdf" crc="157010588" seo="true" mt="1431092136000"/>
+    <file name="invitación-a-la-conferencia.docx" crc="453936441" seo="true" mt="1432895702000"/>
+    <file name="koy-53-mayo-2015.pdf" crc="473263834" seo="true" mt="1432929730000"/>
+    <file name="formulariocep_distribuido.pdf" crc="286372438" seo="true" mt="1438201106000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="museutils.js" crc="275725342" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="contact:links:biblioteca-virtual:capacitacion:textos-sugeridos:textos-sugeridos,-pag-2:index:galerias-pag2"/>
+    <file name="pie.js" crc="3827607177" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="webpro.js" crc="3883484123" ref="contact:biblioteca-virtual:presidentes:eventos:capacitacion:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:index:galerias-pag2:galerias,-copias:otros-aportes-del-cep"/>
+    <file name="form_check.php" crc="3932029206" ref="contact"/>
+    <file name="form_throttle.php" crc="314685628" ref="contact"/>
+    <file name="form_process.php" crc="401030677" ref="contact"/>
+    <file name="form-u804.php" crc="3767433953" ref="contact"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="biblioteca-virtual:presidentes:eventos:capacitacion:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:index:galerias-pag2:galerias,-copias:otros-aportes-del-cep"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="biblioteca-virtual:presidentes:eventos:capacitacion:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:index:galerias-pag2:galerias,-copias:otros-aportes-del-cep"/>
+    <file name="touchswipe.js" crc="4218319045" ref="biblioteca-virtual:presidentes:eventos:capacitacion:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:index:galerias-pag2:galerias,-copias:otros-aportes-del-cep"/>
+  </folder>
+  <folder name="images">
+    <file name="puntos.jpg" crc="77606906" ref="contact:presidentes:eventos:econ.-eduardo-santos:aviso-importante:sesion-solemne-2012:sesion-solemne-2011:econ.-eduardo-santos,-p2:index:galerias-pag2:galerias,-copias"/>
+    <file name="captura de pantalla 2014-03-14 a la(s) 164933.png" crc="104536546" ref="contact"/>
+    <file name="u525-4.png" crc="4160094417" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="u526-4.png" crc="402027298" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="u527-4.png" crc="529315611" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="u528-4.png" crc="4061639099" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="u529-4.png" crc="4038376743" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="u530-4.png" crc="344351590" ref="contact:la-institucion:links:biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:textos-sugeridos:textos-sugeridos,-pag-2:econ.-eduardo-santos,-p2:index:textos-sugeridos,-pag-3:galerias-pag2:galerias,-copias:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="u805-17.png" crc="337861563" ref="contact"/>
+    <file name="u805-17-r.png" crc="408956564" ref="contact"/>
+    <file name="u805-17-m.png" crc="4081442187" ref="contact"/>
+    <file name="u805-17-fs.png" crc="519758547" ref="contact"/>
+    <file name="u11360-4.png" crc="4105273616" ref="la-institucion"/>
+    <file name="fondo02.jpg" crc="275878403" ref="la-institucion:links"/>
+    <file name="fill 9-u649.png" crc="100910759" ref="la-institucion"/>
+    <file name="fondo01.jpg" crc="3845568881" ref="la-institucion:capacitacion"/>
+    <file name="fill 9-u788.png" crc="100910759" ref="la-institucion"/>
+    <file name="fondo04.jpg" crc="3891937386" ref="la-institucion:links:biblioteca-virtual:textos-sugeridos:textos-sugeridos,-pag-2:textos-sugeridos,-pag-3:lecturas-recomendadas:aportes-para-estudio:otros-aportes-del-cep"/>
+    <file name="u21143-4.png" crc="4138014361" ref="la-institucion"/>
+    <file name="fill 9-u800.png" crc="100910759" ref="la-institucion"/>
+    <file name="organigrama.png" crc="3915449445" ref="la-institucion"/>
+    <file name="fondo03.jpg" crc="4092040948" ref="la-institucion"/>
+    <file name="directorio-copy-u13332-fr.png" crc="4275742107" ref="la-institucion"/>
+    <file name="fill 9-u794.png" crc="100910759" ref="la-institucion"/>
+    <file name="fill 9-u655.png" crc="34523055" ref="la-institucion"/>
+    <file name="u24065-4.png" crc="4138014361" ref="la-institucion"/>
+    <file name="u14117-4.png" crc="4105273616" ref="links"/>
+    <file name="u14147-4.png" crc="3791170768" ref="links"/>
+    <file name="u14460-4.png" crc="3828489839" ref="links"/>
+    <file name="u7879-4.png" crc="4148957294" ref="links"/>
+    <file name="u7881-4.png" crc="163844578" ref="links"/>
+    <file name="u1002-4.png" crc="3900026649" ref="links"/>
+    <file name="logo-ministerio-industrias-productividad-nm.jpg" crc="3794796815" ref="links"/>
+    <file name="relaciones exteriores.jpg" crc="214024710" ref="links"/>
+    <file name="ministerio de comercio.jpg" crc="4250907230" ref="links"/>
+    <file name="senescyt.png" crc="4148153808" ref="links"/>
+    <file name="logotipo_ministerio_finanzas_-u990-fr.png" crc="4224868646" ref="links"/>
+    <file name="ministerio-de-relaciones-laborales.jpg" crc="6303124" ref="links"/>
+    <file name="mies.jpg" crc="4241903706" seo="true" ref="links"/>
+    <file name="registrooficial.jpg" crc="3891931819" ref="links"/>
+    <file name="senplades.jpg" crc="3967489402" ref="links"/>
+    <file name="ministeriocordinacionpoliticaeconomica-u14544-fr.jpg" crc="3767471863" ref="links"/>
+    <file name="sni.jpg" crc="361717304" ref="links"/>
+    <file name="u1003-4.png" crc="180873687" ref="links"/>
+    <file name="camarainsdutrias.jpg" crc="322838154" ref="links"/>
+    <file name="u1018-4.png" crc="116909867" ref="links"/>
+    <file name="camara de comercio quito.jpg" crc="373782863" ref="links"/>
+    <file name="logo-capeipi-web.jpg" crc="4034972036" ref="links"/>
+    <file name="u999-4.png" crc="498122765" ref="links"/>
+    <file name="u998-4.png" crc="181753422" ref="links"/>
+    <file name="bancomundial.jpg" crc="443204261" ref="links"/>
+    <file name="u1006-4.png" crc="4153702727" ref="links"/>
+    <file name="unioneuropea.jpg" crc="334205497" ref="links"/>
+    <file name="u1023-4.png" crc="3852803691" ref="links"/>
+    <file name="fondomonetario internacional.jpg" crc="71767926" ref="links"/>
+    <file name="u1010-6.png" crc="4226734972" ref="links"/>
+    <file name="onu.jpg" crc="358959277" ref="links"/>
+    <file name="u1000-4.png" crc="282030523" ref="links"/>
+    <file name="u1015-4.png" crc="4077738288" ref="links"/>
+    <file name="cepal_logo.jpg" crc="424877195" ref="links"/>
+    <file name="caf.jpg" crc="4118256230" ref="links"/>
+    <file name="u1001-4.png" crc="92348815" ref="links"/>
+    <file name="1portada.jpg" crc="4185534857" seo="true" ref="biblioteca-virtual"/>
+    <file name="blank.gif" crc="4208392903" ref="biblioteca-virtual:presidentes:eventos:capacitacion:econ.-eduardo-santos:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:econ.-eduardo-santos,-p2:index:galerias-pag2:galerias,-copias:otros-aportes-del-cep"/>
+    <file name="1portada154x204.jpg" crc="218612435" seo="true" ref="biblioteca-virtual"/>
+    <file name="loading.gif" crc="3815509949" ref="biblioteca-virtual:presidentes:eventos:capacitacion:aviso-importante:sesion-solemne-2013:sesion-solemne-2012:sesion-solemne-2011:index:galerias-pag2:galerias,-copias:otros-aportes-del-cep"/>
+    <file name="2portada.jpg" crc="4248059330" seo="true" ref="biblioteca-virtual"/>
+    <file name="2portada147x203.jpg" crc="3862740116" seo="true" ref="biblioteca-virtual"/>
+    <file name="3portada.jpg" crc="3796952985" seo="true" ref="biblioteca-virtual"/>
+    <file name="3portada144x204.jpg" crc="251594305" seo="true" ref="biblioteca-virtual"/>
+    <file name="4portada.jpg" crc="194231540" seo="true" ref="biblioteca-virtual"/>
+    <file name="4portada146x204.jpg" crc="393268471" seo="true" ref="biblioteca-virtual"/>
+    <file name="5portada.jpg" crc="4213603041" seo="true" ref="biblioteca-virtual"/>
+    <file name="5portada142x204.jpg" crc="4018725400" seo="true" ref="biblioteca-virtual"/>
+    <file name="2-a.jpg" crc="4227491652" seo="true" ref="biblioteca-virtual"/>
+    <file name="2-b.jpg" crc="4271113412" seo="true" ref="biblioteca-virtual"/>
+    <file name="2-a-crop-u1423.jpg" crc="81620487" ref="biblioteca-virtual"/>
+    <file name="2-b-crop-u1482.jpg" crc="3884190679" ref="biblioteca-virtual"/>
+    <file name="4.jpg" crc="402984775" seo="true" ref="biblioteca-virtual"/>
+    <file name="441x45.jpg" crc="4123350896" seo="true" ref="biblioteca-virtual"/>
+    <file name="3.jpg" crc="3973941855" seo="true" ref="biblioteca-virtual"/>
+    <file name="343x45.jpg" crc="3814559213" seo="true" ref="biblioteca-virtual"/>
+    <file name="5.jpg" crc="3890837724" seo="true" ref="biblioteca-virtual"/>
+    <file name="535x45.jpg" crc="528782454" seo="true" ref="biblioteca-virtual"/>
+    <file name="1.jpg" crc="4177875953" seo="true" ref="biblioteca-virtual"/>
+    <file name="1-crop-u13152.jpg" crc="258654739" ref="biblioteca-virtual"/>
+    <file name="6portada.jpg" crc="4257899225" seo="true" ref="biblioteca-virtual"/>
+    <file name="6portada144x204.jpg" crc="4028603896" seo="true" ref="biblioteca-virtual"/>
+    <file name="7portada.jpg" crc="3804726486" seo="true" ref="biblioteca-virtual"/>
+    <file name="7portada142x204.jpg" crc="2182183" seo="true" ref="biblioteca-virtual"/>
+    <file name="8portada.jpg" crc="114424694" seo="true" ref="biblioteca-virtual"/>
+    <file name="8portada145x204.jpg" crc="311369383" seo="true" ref="biblioteca-virtual"/>
+    <file name="9portada.jpg" crc="496054044" seo="true" ref="biblioteca-virtual"/>
+    <file name="9portada147x196.jpg" crc="4293378975" seo="true" ref="biblioteca-virtual"/>
+    <file name="10portada.jpg" crc="359719937" seo="true" ref="biblioteca-virtual"/>
+    <file name="10portada146x204.jpg" crc="4086116074" seo="true" ref="biblioteca-virtual"/>
+    <file name="7.jpg" crc="4022001101" seo="true" ref="biblioteca-virtual"/>
+    <file name="738x45.jpg" crc="291806697" seo="true" ref="biblioteca-virtual"/>
+    <file name="9-a.jpg" crc="3970858023" seo="true" ref="biblioteca-virtual"/>
+    <file name="9-b.jpg" crc="4005588667" seo="true" ref="biblioteca-virtual"/>
+    <file name="9-a30x45.jpg" crc="3870269056" seo="true" ref="biblioteca-virtual"/>
+    <file name="9-b33x45.jpg" crc="216957840" seo="true" ref="biblioteca-virtual"/>
+    <file name="8.jpg" crc="3912426934" seo="true" ref="biblioteca-virtual"/>
+    <file name="841x45.jpg" crc="118583043" seo="true" ref="biblioteca-virtual"/>
+    <file name="10-b.jpg" crc="4066834747" seo="true" ref="biblioteca-virtual"/>
+    <file name="10.jpg" crc="3780622924" seo="true" ref="biblioteca-virtual:sesion-solemne-2012:sesion-solemne-2011"/>
+    <file name="10-b36x45.jpg" crc="4143483151" seo="true" ref="biblioteca-virtual"/>
+    <file name="6.jpg" crc="485179913" seo="true" ref="biblioteca-virtual"/>
+    <file name="6-crop-u4977.jpg" crc="514794203" ref="biblioteca-virtual"/>
+    <file name="11portada.jpg" crc="4278475404" seo="true" ref="biblioteca-virtual"/>
+    <file name="11portada147x200.jpg" crc="4277551178" seo="true" ref="biblioteca-virtual"/>
+    <file name="12portada.jpg" crc="37062002" seo="true" ref="biblioteca-virtual"/>
+    <file name="12portada127x204.jpg" crc="3917353986" seo="true" ref="biblioteca-virtual"/>
+    <file name="13portada.jpg" crc="3973026238" seo="true" ref="biblioteca-virtual"/>
+    <file name="13portada138x204.jpg" crc="3950693430" seo="true" ref="biblioteca-virtual"/>
+    <file name="14portada.jpg" crc="295658421" seo="true" ref="biblioteca-virtual"/>
+    <file name="14portada141x204.jpg" crc="52900877" seo="true" ref="biblioteca-virtual"/>
+    <file name="15portada.jpg" crc="59824951" seo="true" ref="biblioteca-virtual"/>
+    <file name="15portada147x197.jpg" crc="141228595" seo="true" ref="biblioteca-virtual"/>
+    <file name="12-a.jpg" crc="70651641" seo="true" ref="biblioteca-virtual"/>
+    <file name="12-b.jpg" crc="4095853790" seo="true" ref="biblioteca-virtual"/>
+    <file name="12-a34x45.jpg" crc="234419601" seo="true" ref="biblioteca-virtual"/>
+    <file name="12-b36x45.jpg" crc="458525562" seo="true" ref="biblioteca-virtual"/>
+    <file name="14-a.jpg" crc="4094464792" seo="true" ref="biblioteca-virtual"/>
+    <file name="14-b.jpg" crc="382255664" seo="true" ref="biblioteca-virtual"/>
+    <file name="14-a34x45.jpg" crc="77967084" seo="true" ref="biblioteca-virtual"/>
+    <file name="14-b41x45.jpg" crc="514699092" seo="true" ref="biblioteca-virtual"/>
+    <file name="13.jpg" crc="4052525413" seo="true" ref="biblioteca-virtual:sesion-solemne-2012"/>
+    <file name="1335x26.jpg" crc="157809325" seo="true" ref="biblioteca-virtual"/>
+    <file name="15-a.jpg" crc="4193947750" seo="true" ref="biblioteca-virtual"/>
+    <file name="15-b.jpg" crc="231059341" seo="true" ref="biblioteca-virtual"/>
+    <file name="15-a31x45.jpg" crc="3913093445" seo="true" ref="biblioteca-virtual"/>
+    <file name="15-b48x45.jpg" crc="420025186" seo="true" ref="biblioteca-virtual"/>
+    <file name="11-b.jpg" crc="79288164" seo="true" ref="biblioteca-virtual"/>
+    <file name="11.jpg" crc="424009042" seo="true" ref="biblioteca-virtual:sesion-solemne-2011"/>
+    <file name="11-b-crop-u6011.jpg" crc="3862560584" ref="biblioteca-virtual"/>
+    <file name="11-crop-u7487.jpg" crc="3982891604" ref="biblioteca-virtual"/>
+    <file name="16portada.jpg" crc="155997542" seo="true" ref="biblioteca-virtual"/>
+    <file name="16portada144x204.jpg" crc="3827907404" seo="true" ref="biblioteca-virtual"/>
+    <file name="17portada.jpg" crc="174500794" seo="true" ref="biblioteca-virtual"/>
+    <file name="17portada139x204.jpg" crc="3897446781" seo="true" ref="biblioteca-virtual"/>
+    <file name="18portada.jpg" crc="153787514" seo="true" ref="biblioteca-virtual"/>
+    <file name="18portada147x199.jpg" crc="63886948" seo="true" ref="biblioteca-virtual"/>
+    <file name="19portada.jpg" crc="214188678" seo="true" ref="biblioteca-virtual"/>
+    <file name="19portada146x204.jpg" crc="339577769" seo="true" ref="biblioteca-virtual"/>
+    <file name="20portada.jpg" crc="318856862" seo="true" ref="biblioteca-virtual"/>
+    <file name="20portada146x204.jpg" crc="63366426" seo="true" ref="biblioteca-virtual"/>
+    <file name="17.jpg" crc="201153377" seo="true" ref="biblioteca-virtual:sesion-solemne-2011"/>
+    <file name="19-a.jpg" crc="4101853577" seo="true" ref="biblioteca-virtual"/>
+    <file name="19-b.jpg" crc="492477989" seo="true" ref="biblioteca-virtual"/>
+    <file name="19-a27x45.jpg" crc="4031420327" seo="true" ref="biblioteca-virtual"/>
+    <file name="19-b26x45.jpg" crc="90065190" seo="true" ref="biblioteca-virtual"/>
+    <file name="18-a.jpg" crc="3979529604" seo="true" ref="biblioteca-virtual"/>
+    <file name="18-b.jpg" crc="410667487" seo="true" ref="biblioteca-virtual"/>
+    <file name="18-a27x45.jpg" crc="4034003456" seo="true" ref="biblioteca-virtual"/>
+    <file name="18-b60x38.jpg" crc="61556717" seo="true" ref="biblioteca-virtual"/>
+    <file name="20.jpg" crc="149204283" seo="true" ref="biblioteca-virtual:sesion-solemne-2012:sesion-solemne-2011"/>
+    <file name="16-a.jpg" crc="280109926" seo="true" ref="biblioteca-virtual"/>
+    <file name="16-b.jpg" crc="513394270" seo="true" ref="biblioteca-virtual"/>
+    <file name="16-a-crop-u6525.jpg" crc="234606165" ref="biblioteca-virtual"/>
+    <file name="16-b60x56.jpg" crc="4113731596" seo="true" ref="biblioteca-virtual"/>
+    <file name="21portada.jpg" crc="412438248" seo="true" ref="biblioteca-virtual"/>
+    <file name="21portada147x204.jpg" crc="3916535041" seo="true" ref="biblioteca-virtual"/>
+    <file name="22portada.jpg" crc="4151199494" seo="true" ref="biblioteca-virtual"/>
+    <file name="22portada147x198.jpg" crc="118836641" seo="true" ref="biblioteca-virtual"/>
+    <file name="23portada.jpg" crc="4058537713" seo="true" ref="biblioteca-virtual"/>
+    <file name="23portada147x204.jpg" crc="421323625" seo="true" ref="biblioteca-virtual"/>
+    <file name="24portada.jpg" crc="4213684024" seo="true" ref="biblioteca-virtual"/>
+    <file name="24portada144x204.jpg" crc="4266603682" seo="true" ref="biblioteca-virtual"/>
+    <file name="25portada.jpg" crc="4068602039" seo="true" ref="biblioteca-virtual"/>
+    <file name="25portada139x204.jpg" crc="29990217" seo="true" ref="biblioteca-virtual"/>
+    <file name="22.jpg" crc="467292028" seo="true" ref="biblioteca-virtual"/>
+    <file name="2223x45.jpg" crc="4049309546" seo="true" ref="biblioteca-virtual"/>
+    <file name="24-a.jpg" crc="4042465404" seo="true" ref="biblioteca-virtual"/>
+    <file name="24-b.jpg" crc="3832984953" seo="true" ref="biblioteca-virtual"/>
+    <file name="24-a29x45.jpg" crc="268856527" seo="true" ref="biblioteca-virtual"/>
+    <file name="24-b39x45.jpg" crc="4145803157" seo="true" ref="biblioteca-virtual"/>
+    <file name="23-a.jpg" crc="388170325" seo="true" ref="biblioteca-virtual"/>
+    <file name="23-b.jpg" crc="4099333641" seo="true" ref="biblioteca-virtual"/>
+    <file name="23-a24x45.jpg" crc="3840425818" seo="true" ref="biblioteca-virtual"/>
+    <file name="23-b50x45.jpg" crc="3836147553" seo="true" ref="biblioteca-virtual"/>
+    <file name="25-a.jpg" crc="4085136124" seo="true" ref="biblioteca-virtual"/>
+    <file name="25-b.jpg" crc="73870899" seo="true" ref="biblioteca-virtual"/>
+    <file name="25-c.jpg" crc="4291930490" seo="true" ref="biblioteca-virtual"/>
+    <file name="25-a28x45.jpg" crc="3768035515" seo="true" ref="biblioteca-virtual"/>
+    <file name="25-b24x45.jpg" crc="4017461232" seo="true" ref="biblioteca-virtual"/>
+    <file name="25-c57x45.jpg" crc="4116473120" seo="true" ref="biblioteca-virtual"/>
+    <file name="21.jpg" crc="89632503" seo="true" ref="biblioteca-virtual:sesion-solemne-2012"/>
+    <file name="21-crop-u7293.jpg" crc="4170104963" ref="biblioteca-virtual"/>
+    <file name="aen26.jpg" crc="26896205" seo="true" ref="biblioteca-virtual"/>
+    <file name="aen26147x181.jpg" crc="30294753" seo="true" ref="biblioteca-virtual"/>
+    <file name="indice01-crop-u24174.jpg" crc="398049712" ref="biblioteca-virtual"/>
+    <file name="indice02-crop-u24196.jpg" crc="299939266" ref="biblioteca-virtual"/>
+    <file name="indice03-crop-u24205.jpg" crc="195327485" ref="biblioteca-virtual"/>
+    <file name="indice01-crop-u24166.jpg" crc="3824938192" ref="biblioteca-virtual"/>
+    <file name="indice02-crop-u24199.jpg" crc="301755698" ref="biblioteca-virtual"/>
+    <file name="indice03-crop-u24208.jpg" crc="3900469461" ref="biblioteca-virtual"/>
+    <file name="u23373-4.png" crc="479206979" ref="biblioteca-virtual"/>
+    <file name="libro matriz productiva.jpg" crc="3866480370" seo="true" ref="biblioteca-virtual"/>
+    <file name="libro matriz productiva145x204.jpg" crc="4183710162" seo="true" ref="biblioteca-virtual"/>
+    <file name="libro matriz productiva indice 02-crop-u23488.jpg" crc="303166170" ref="biblioteca-virtual"/>
+    <file name="libro matriz productiva indice 01-crop-u23479.jpg" crc="458781160" ref="biblioteca-virtual"/>
+    <file name="libro matriz productiva 02-crop-u23442.jpg" crc="4283686907" ref="biblioteca-virtual"/>
+    <file name="libro matriz productiva indice 02-crop-u23491.jpg" crc="4293824527" ref="biblioteca-virtual"/>
+    <file name="libro matriz productiva indice 01-crop-u23482.jpg" crc="3855153349" ref="biblioteca-virtual"/>
+    <file name="libro matriz productiva 02-crop-u23438.jpg" crc="128286893" ref="biblioteca-virtual"/>
+    <file name="u12426-4.png" crc="3905502682" ref="biblioteca-virtual"/>
+    <file name="fill 9-u13329-u13329.png" crc="4113800162" ref="biblioteca-virtual"/>
+    <file name="revistacep00.jpg" crc="3895988015" ref="biblioteca-virtual"/>
+    <file name="llo enciclopedia.jpg" crc="4004850525" ref="biblioteca-virtual"/>
+    <file name="fill 9-u13320.png" crc="100910759" ref="biblioteca-virtual"/>
+    <file name="fill 9-u19011.png" crc="97442580" ref="presidentes"/>
+    <file name="u19010_states.png" crc="477496516" ref="presidentes"/>
+    <file name="u19010_states-r.png" crc="4181859930" ref="presidentes"/>
+    <file name="u8417-4.png" crc="18755020" ref="presidentes"/>
+    <file name="gerardo leon tobar .jpg" crc="4063956413" seo="true" ref="presidentes"/>
+    <file name="gerardo leon tobar 142x182.jpg" crc="4052303090" seo="true" ref="presidentes"/>
+    <file name="jose racines .jpg" crc="510085094" seo="true" ref="presidentes"/>
+    <file name="jose racines 142x182.jpg" crc="3862662259" seo="true" ref="presidentes"/>
+    <file name="nestor vega .jpg" crc="240867049" seo="true" ref="presidentes"/>
+    <file name="nestor vega 142x182.jpg" crc="3847670053" seo="true" ref="presidentes"/>
+    <file name="leonardo mejia .jpg" crc="299598876" seo="true" ref="presidentes"/>
+    <file name="leonardo mejia 142x182.jpg" crc="103859545" seo="true" ref="presidentes"/>
+    <file name="abelardo pachano .jpg" crc="288106293" seo="true" ref="presidentes"/>
+    <file name="abelardo pachano 142x182.jpg" crc="3762810128" seo="true" ref="presidentes"/>
+    <file name="bruno vinueza .jpg" crc="4012234658" seo="true" ref="presidentes"/>
+    <file name="bruno vinueza 142x182.jpg" crc="4233261082" seo="true" ref="presidentes"/>
+    <file name="rodrigo espinosa .jpg" crc="21050280" seo="true" ref="presidentes"/>
+    <file name="rodrigo espinosa 142x182.jpg" crc="4184491532" seo="true" ref="presidentes"/>
+    <file name="gilberto landazuri .jpg" crc="252164811" seo="true" ref="presidentes"/>
+    <file name="gilberto landazuri 142x182.jpg" crc="417533837" seo="true" ref="presidentes"/>
+    <file name="jorge rodriguez .jpg" crc="4187362290" seo="true" ref="presidentes"/>
+    <file name="jorge rodriguez 142x182.jpg" crc="199061503" seo="true" ref="presidentes"/>
+    <file name="alberto cardenas .jpg" crc="260888168" seo="true" ref="presidentes"/>
+    <file name="alberto cardenas 142x182.jpg" crc="3937320156" seo="true" ref="presidentes"/>
+    <file name="jose gordillo .jpg" crc="30397042" seo="true" ref="presidentes"/>
+    <file name="jose gordillo 142x182.jpg" crc="409447137" seo="true" ref="presidentes"/>
+    <file name="ramiro gonzales .jpg" crc="4066109724" seo="true" ref="presidentes"/>
+    <file name="ramiro gonzales 142x182.jpg" crc="336260491" seo="true" ref="presidentes"/>
+    <file name="hernan aulestia .jpg" crc="111660653" seo="true" ref="presidentes"/>
+    <file name="hernan aulestia 142x182.jpg" crc="4026111955" seo="true" ref="presidentes"/>
+    <file name="jose villacis .jpg" crc="202081720" seo="true" ref="presidentes"/>
+    <file name="jose villacis 142x182.jpg" crc="335258141" seo="true" ref="presidentes"/>
+    <file name="mario munoz .jpg" crc="4172475462" seo="true" ref="presidentes"/>
+    <file name="mario munoz 142x182.jpg" crc="3878997320" seo="true" ref="presidentes"/>
+    <file name="polibio cordova .jpg" crc="214250388" seo="true" ref="presidentes"/>
+    <file name="polibio cordova 142x182.jpg" crc="4156193536" seo="true" ref="presidentes"/>
+    <file name="jose vergara .jpg" crc="3796486564" seo="true" ref="presidentes"/>
+    <file name="jose vergara 142x182.jpg" crc="4016248371" seo="true" ref="presidentes"/>
+    <file name="patricio almeida .jpg" crc="453336056" seo="true" ref="presidentes"/>
+    <file name="patricio almeida 142x182.jpg" crc="453018604" seo="true" ref="presidentes"/>
+    <file name="maria herrera .jpg" crc="128859394" seo="true" ref="presidentes"/>
+    <file name="maria herrera 142x182.jpg" crc="3831250391" seo="true" ref="presidentes"/>
+    <file name="victor h alban.jpg" crc="389534437" seo="true" ref="presidentes"/>
+    <file name="victor h alban142x196.jpg" crc="327812979" seo="true" ref="presidentes"/>
+    <file name="u15779-4.png" crc="4105273616" ref="eventos"/>
+    <file name="u13386-4.png" crc="4272350650" ref="eventos"/>
+    <file name="u25033-4.png" crc="80762856" ref="eventos"/>
+    <file name="u24515-4.png" crc="96661139" ref="eventos"/>
+    <file name="u22581-4.png" crc="67369231" ref="eventos"/>
+    <file name="cep 1.jpg" crc="3853574101" seo="true" ref="eventos"/>
+    <file name="cep 2.jpg" crc="4181607828" seo="true" ref="eventos"/>
+    <file name="cep 3.jpg" crc="518573680" seo="true" ref="eventos"/>
+    <file name="cep 4.jpg" crc="346342896" seo="true" ref="eventos"/>
+    <file name="cep 5.jpg" crc="3962065440" seo="true" ref="eventos"/>
+    <file name="cep 6.jpg" crc="4176501032" seo="true" ref="eventos"/>
+    <file name="cep 7.jpg" crc="3911194632" seo="true" ref="eventos"/>
+    <file name="cep 8.jpg" crc="4142935791" seo="true" ref="eventos"/>
+    <file name="cep 9.jpg" crc="4071257511" seo="true" ref="eventos"/>
+    <file name="cep 10.jpg" crc="3772216772" seo="true" ref="eventos"/>
+    <file name="cep 11.jpg" crc="4086926882" seo="true" ref="eventos"/>
+    <file name="cep 12.jpg" crc="3971461064" seo="true" ref="eventos"/>
+    <file name="cep 13.jpg" crc="4215430746" seo="true" ref="eventos"/>
+    <file name="cep 14.jpg" crc="431171708" seo="true" ref="eventos"/>
+    <file name="cep 15.jpg" crc="4132405190" seo="true" ref="eventos"/>
+    <file name="cep 16.jpg" crc="206303208" seo="true" ref="eventos"/>
+    <file name="cep 20.jpg" crc="66531433" seo="true" ref="eventos"/>
+    <file name="cep 21.jpg" crc="214053039" seo="true" ref="eventos"/>
+    <file name="cep 22.jpg" crc="4137979767" seo="true" ref="eventos"/>
+    <file name="cep 23.jpg" crc="4257270181" seo="true" ref="eventos"/>
+    <file name="cep 29.jpg" crc="3903188795" seo="true" ref="eventos"/>
+    <file name="cep 30.jpg" crc="4080538038" seo="true" ref="eventos"/>
+    <file name="cep.jpg" crc="4003916699" seo="true" ref="eventos"/>
+    <file name="cep 1125x90.jpg" crc="4066397272" seo="true" ref="eventos"/>
+    <file name="cep 2126x90.jpg" crc="4044946005" seo="true" ref="eventos"/>
+    <file name="cep 3125x90.jpg" crc="3808825565" seo="true" ref="eventos"/>
+    <file name="cep 4125x90.jpg" crc="4245031346" seo="true" ref="eventos"/>
+    <file name="cep 6125x90.jpg" crc="4104713171" seo="true" ref="eventos"/>
+    <file name="cep 7124x90.jpg" crc="4260958798" seo="true" ref="eventos"/>
+    <file name="cep 8126x90.jpg" crc="98512797" seo="true" ref="eventos"/>
+    <file name="cep 9126x90.jpg" crc="4279046774" seo="true" ref="eventos"/>
+    <file name="cep 11125x90.jpg" crc="3825722639" seo="true" ref="eventos"/>
+    <file name="cep 13125x90.jpg" crc="94625268" seo="true" ref="eventos"/>
+    <file name="cep 14125x90.jpg" crc="88008410" seo="true" ref="eventos"/>
+    <file name="cep 16127x90.jpg" crc="4220041025" seo="true" ref="eventos"/>
+    <file name="cep 20126x90.jpg" crc="3941835497" seo="true" ref="eventos"/>
+    <file name="cep 29125x90.jpg" crc="4141352233" seo="true" ref="eventos"/>
+    <file name="cep 30125x90.jpg" crc="4229467355" seo="true" ref="eventos"/>
+    <file name="cep126x90.jpg" crc="459743122" seo="true" ref="eventos"/>
+    <file name="u22582-4.png" crc="279420542" ref="eventos"/>
+    <file name="cep 17.jpg" crc="266877042" seo="true" ref="eventos"/>
+    <file name="cep 24.jpg" crc="352422284" seo="true" ref="eventos"/>
+    <file name="cep 28.jpg" crc="252052379" seo="true" ref="eventos"/>
+    <file name="cep 17125x90.jpg" crc="3869736857" seo="true" ref="eventos"/>
+    <file name="cep 24126x90.jpg" crc="470167414" seo="true" ref="eventos"/>
+    <file name="cep 28125x90.jpg" crc="377991911" seo="true" ref="eventos"/>
+    <file name="u23284-4.png" crc="4219109536" ref="eventos"/>
+    <file name="cep 18.jpg" crc="54861310" seo="true" ref="eventos"/>
+    <file name="cep 19.jpg" crc="3893819186" seo="true" ref="eventos"/>
+    <file name="cep 25.jpg" crc="4068775549" seo="true" ref="eventos"/>
+    <file name="cep 26.jpg" crc="3762235818" seo="true" ref="eventos"/>
+    <file name="cep 27.jpg" crc="254743356" seo="true" ref="eventos"/>
+    <file name="cep 18126x90.jpg" crc="479760693" seo="true" ref="eventos"/>
+    <file name="cep 19126x90.jpg" crc="4279419993" seo="true" ref="eventos"/>
+    <file name="cep 26126x90.jpg" crc="4060252928" seo="true" ref="eventos"/>
+    <file name="cep 27125x90.jpg" crc="171657615" seo="true" ref="eventos"/>
+    <file name="u22580-4.png" crc="276127612" ref="eventos"/>
+    <file name="01.jpg" crc="525903476" ref="eventos:sesion-solemne-2012:sesion-solemne-2011"/>
+    <file name="03.jpg" crc="4144979598" seo="true" ref="eventos"/>
+    <file name="02.jpg" crc="3916739961" seo="true" ref="eventos"/>
+    <file name="01250x109.jpg" crc="3985068198" seo="true" ref="eventos"/>
+    <file name="03-crop-u22608.jpg" crc="3767002193" ref="eventos"/>
+    <file name="02249x109.jpg" crc="150240588" seo="true" ref="eventos"/>
+    <file name="u22579-4.png" crc="275136510" ref="eventos"/>
+    <file name="propaganda.jpg" crc="130354331" ref="capacitacion"/>
+    <file name="invseminario2.jpg" crc="4127058940" ref="capacitacion"/>
+    <file name="propaganda conferencia de franquicias (1).jpg" crc="335711646" ref="capacitacion"/>
+    <file name="p1010656.jpg" crc="217442899" seo="true" ref="capacitacion"/>
+    <file name="p1010659.jpg" crc="4023490924" seo="true" ref="capacitacion"/>
+    <file name="p1010664.jpg" crc="427196366" seo="true" ref="capacitacion"/>
+    <file name="p1010662.jpg" crc="378370608" seo="true" ref="capacitacion"/>
+    <file name="p1010666.jpg" crc="4003555762" seo="true" ref="capacitacion"/>
+    <file name="p1010667.jpg" crc="151397285" seo="true" ref="capacitacion"/>
+    <file name="p1010670.jpg" crc="252997874" seo="true" ref="capacitacion"/>
+    <file name="p1010656135x102.jpg" crc="4026672861" seo="true" ref="capacitacion"/>
+    <file name="p1010659135x102.jpg" crc="293942005" seo="true" ref="capacitacion"/>
+    <file name="p1010664135x102.jpg" crc="138060883" seo="true" ref="capacitacion"/>
+    <file name="p1010662135x102.jpg" crc="3974206022" seo="true" ref="capacitacion"/>
+    <file name="p1010666135x102.jpg" crc="307582381" seo="true" ref="capacitacion"/>
+    <file name="p1010667135x102.jpg" crc="3790111291" seo="true" ref="capacitacion"/>
+    <file name="p1010670135x102.jpg" crc="23183735" seo="true" ref="capacitacion"/>
+    <file name="cinco.jpg" crc="171203441" seo="true" ref="capacitacion"/>
+    <file name="cuatro.jpg" crc="298086031" seo="true" ref="capacitacion"/>
+    <file name="dos.jpg" crc="140233515" seo="true" ref="capacitacion"/>
+    <file name="ocho.jpg" crc="82320986" seo="true" ref="capacitacion"/>
+    <file name="seis.jpg" crc="4277364846" seo="true" ref="capacitacion"/>
+    <file name="siete.jpg" crc="168664923" seo="true" ref="capacitacion"/>
+    <file name="tres.jpg" crc="4252819861" seo="true" ref="capacitacion"/>
+    <file name="una.jpg" crc="3995819597" seo="true" ref="capacitacion"/>
+    <file name="cinco135x102.jpg" crc="100012006" seo="true" ref="capacitacion"/>
+    <file name="cuatro135x102.jpg" crc="280451163" seo="true" ref="capacitacion"/>
+    <file name="dos135x102.jpg" crc="356038277" seo="true" ref="capacitacion"/>
+    <file name="ocho135x102.jpg" crc="3903474102" seo="true" ref="capacitacion"/>
+    <file name="seis135x102.jpg" crc="213849867" seo="true" ref="capacitacion"/>
+    <file name="siete135x102.jpg" crc="3888719623" seo="true" ref="capacitacion"/>
+    <file name="tres135x102.jpg" crc="4135681924" seo="true" ref="capacitacion"/>
+    <file name="una135x102.jpg" crc="408097998" seo="true" ref="capacitacion"/>
+    <file name="u13965-4.png" crc="4105273616" ref="capacitacion"/>
+    <file name="fill 9-u19033.png" crc="97442580" ref="econ.-eduardo-santos"/>
+    <file name="u19032_states.png" crc="477496516" ref="econ.-eduardo-santos"/>
+    <file name="u19032_states-r.png" crc="4181859930" ref="econ.-eduardo-santos"/>
+    <file name="u15450-4.png" crc="3781451527" ref="econ.-eduardo-santos"/>
+    <file name="u22675-4.png" crc="4172511743" ref="aviso-importante"/>
+    <file name="u15715-4.png" crc="206986792" ref="aviso-importante"/>
+    <file name="032.jpg" crc="4271022877" seo="true" ref="aviso-importante"/>
+    <file name="04.jpg" crc="4038323887" seo="true" ref="aviso-importante"/>
+    <file name="03150x206.jpg" crc="163919861" seo="true" ref="aviso-importante"/>
+    <file name="04150x206.jpg" crc="3942050814" seo="true" ref="aviso-importante"/>
+    <file name="u21096-4.png" crc="302092792" ref="aviso-importante"/>
+    <file name="u15729-4.png" crc="3986638702" ref="aviso-importante"/>
+    <file name="u15738-4.png" crc="3986638702" ref="aviso-importante"/>
+    <file name="u19493-4.png" crc="4105273616" ref="sesion-solemne-2013"/>
+    <file name="u19347-4.png" crc="3772723193" ref="sesion-solemne-2013"/>
+    <file name="gallery03.jpg" crc="4025391258" ref="sesion-solemne-2013"/>
+    <file name="u19356-4.png" crc="4138014361" ref="sesion-solemne-2013"/>
+    <file name="u19354-4.png" crc="4138014361" ref="sesion-solemne-2013"/>
+    <file name="gallery01.jpg" crc="130804539" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery02.jpg" crc="4174336711" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery10.jpg" crc="166839168" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery04.jpg" crc="4028364963" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery05.jpg" crc="8638546" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery06.jpg" crc="443746596" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery18.jpg" crc="223910578" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery07.jpg" crc="4113868550" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery08.jpg" crc="124769338" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery09.jpg" crc="399660054" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery11.jpg" crc="292201506" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery20.jpg" crc="3867881230" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery12.jpg" crc="488544932" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery13.jpg" crc="215594212" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery14.jpg" crc="3759178900" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery15.jpg" crc="4110397402" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery17.jpg" crc="3934963309" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery16.jpg" crc="223670921" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery00.jpg" crc="209987912" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery19.jpg" crc="231117786" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery01143x102.jpg" crc="4006619020" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery02141x102.jpg" crc="3958502020" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery10142x102.jpg" crc="269588148" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery04143x102.jpg" crc="3986687384" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery05143x102.jpg" crc="154693564" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery06142x102.jpg" crc="3993130691" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery18141x102.jpg" crc="199977180" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery07140x102.jpg" crc="530690134" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery08141x102.jpg" crc="3787345223" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery09140x102.jpg" crc="3860084283" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery11140x102.jpg" crc="3867667879" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery20141x102.jpg" crc="3825232069" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery12142x102.jpg" crc="457022585" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery13142x102.jpg" crc="3904882187" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery14141x102.jpg" crc="130182560" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery15141x102.jpg" crc="3881574066" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery17141x102.jpg" crc="131001426" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery16143x102.jpg" crc="4211404797" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery0073x102.jpg" crc="4041643163" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery19141x102.jpg" crc="187392993" seo="true" ref="sesion-solemne-2013"/>
+    <file name="u19168-6.png" crc="4210721304" ref="sesion-solemne-2013"/>
+    <file name="gallery02495x358.jpg" crc="3923230163" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery01508x360.jpg" crc="3760729738" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery03500x360.jpg" crc="86602479" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery04497x354.jpg" crc="289260169" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery02-crop-u19203.jpg" crc="4099375975" ref="sesion-solemne-2013"/>
+    <file name="gallery01166x118.jpg" crc="489596960" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery03166x120.jpg" crc="431214770" seo="true" ref="sesion-solemne-2013"/>
+    <file name="gallery04-crop-u19205.jpg" crc="411267346" ref="sesion-solemne-2013"/>
+    <file name="fill 9-u19076.png" crc="97442580" ref="sesion-solemne-2012"/>
+    <file name="u19078_states.png" crc="477496516" ref="sesion-solemne-2012"/>
+    <file name="u19078_states-r.png" crc="4181859930" ref="sesion-solemne-2012"/>
+    <file name="u16123-4.png" crc="3931801125" ref="sesion-solemne-2012"/>
+    <file name="u16208-4.png" crc="4138014361" ref="sesion-solemne-2012"/>
+    <file name="u16205-4.png" crc="4138014361" ref="sesion-solemne-2012"/>
+    <file name="01975x427.jpg" crc="4239765521" seo="true" ref="sesion-solemne-2012"/>
+    <file name="042.jpg" crc="3863156408" seo="true" ref="sesion-solemne-2012:sesion-solemne-2011"/>
+    <file name="07.jpg" crc="113635891" seo="true" ref="sesion-solemne-2012:sesion-solemne-2011"/>
+    <file name="09.jpg" crc="3932754209" seo="true" ref="sesion-solemne-2012:sesion-solemne-2011"/>
+    <file name="14.jpg" crc="3989786213" seo="true" ref="sesion-solemne-2012:sesion-solemne-2011"/>
+    <file name="18.jpg" crc="318849361" seo="true" ref="sesion-solemne-2012:sesion-solemne-2011"/>
+    <file name="27-crop-u16796.jpg" crc="152248289" ref="sesion-solemne-2012"/>
+    <file name="29-crop-u16805.jpg" crc="3782862714" ref="sesion-solemne-2012"/>
+    <file name="30-crop-u16814.jpg" crc="4289435639" ref="sesion-solemne-2012"/>
+    <file name="31-crop-u16823.jpg" crc="404525288" ref="sesion-solemne-2012"/>
+    <file name="32-crop-u16832.jpg" crc="260718040" ref="sesion-solemne-2012"/>
+    <file name="34.jpg" crc="4182647954" seo="true" ref="sesion-solemne-2012"/>
+    <file name="01144x63.jpg" crc="3999292836" seo="true" ref="sesion-solemne-2012"/>
+    <file name="04135x90.jpg" crc="189721075" seo="true" ref="sesion-solemne-2012"/>
+    <file name="1379x58.jpg" crc="4231371930" seo="true" ref="sesion-solemne-2012"/>
+    <file name="14138x102.jpg" crc="379296984" seo="true" ref="sesion-solemne-2012"/>
+    <file name="18138x102.jpg" crc="4265048907" seo="true" ref="sesion-solemne-2012"/>
+    <file name="2772x102.jpg" crc="3821860864" seo="true" ref="sesion-solemne-2012"/>
+    <file name="2974x102.jpg" crc="201360199" seo="true" ref="sesion-solemne-2012"/>
+    <file name="3072x102.jpg" crc="4211968712" seo="true" ref="sesion-solemne-2012"/>
+    <file name="3182x102.jpg" crc="4189831867" seo="true" ref="sesion-solemne-2012"/>
+    <file name="3272x102.jpg" crc="4248295986" seo="true" ref="sesion-solemne-2012"/>
+    <file name="34135x102.jpg" crc="201954705" seo="true" ref="sesion-solemne-2012"/>
+    <file name="u16268-4.png" crc="4115468594" ref="sesion-solemne-2012"/>
+    <file name="dsc02700.jpg" crc="3803035621" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc02711.jpg" crc="432618878" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc02713.jpg" crc="463120839" seo="true" ref="sesion-solemne-2012"/>
+    <file name="analisis economicop1.jpg" crc="3899597109" seo="true" ref="sesion-solemne-2012"/>
+    <file name="analisis economicop2.jpg" crc="4230705654" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc02700102x102.jpg" crc="461443382" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc02711135x102.jpg" crc="4097362149" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc02713135x102.jpg" crc="328660637" seo="true" ref="sesion-solemne-2012"/>
+    <file name="analisis economicop176x102.jpg" crc="275376692" seo="true" ref="sesion-solemne-2012"/>
+    <file name="analisis economicop276x102.jpg" crc="67966978" seo="true" ref="sesion-solemne-2012"/>
+    <file name="u16523-4.png" crc="3879340345" ref="sesion-solemne-2012"/>
+    <file name="dsc02728.jpg" crc="4241019008" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc02733.jpg" crc="4072583995" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc02746.jpg" crc="494629606" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc0272876x102.jpg" crc="4237882830" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc02733135x102.jpg" crc="3877780127" seo="true" ref="sesion-solemne-2012"/>
+    <file name="dsc02746135x102.jpg" crc="154311814" seo="true" ref="sesion-solemne-2012"/>
+    <file name="fill 9-u19081.png" crc="97442580" ref="sesion-solemne-2011"/>
+    <file name="u19083_states.png" crc="477496516" ref="sesion-solemne-2011"/>
+    <file name="u19083_states-r.png" crc="4181859930" ref="sesion-solemne-2011"/>
+    <file name="u15885-4.png" crc="3918393648" ref="sesion-solemne-2011"/>
+    <file name="u16018-4.png" crc="4138014361" ref="sesion-solemne-2011"/>
+    <file name="u16016-4.png" crc="4138014361" ref="sesion-solemne-2011"/>
+    <file name="022.jpg" crc="509715258" seo="true" ref="sesion-solemne-2011"/>
+    <file name="033.jpg" crc="3867077245" seo="true" ref="sesion-solemne-2011"/>
+    <file name="05.jpg" crc="4040397130" seo="true" ref="sesion-solemne-2011"/>
+    <file name="06.jpg" crc="3892964002" seo="true" ref="sesion-solemne-2011"/>
+    <file name="08.jpg" crc="340557547" seo="true" ref="sesion-solemne-2011"/>
+    <file name="12.jpg" crc="335661750" seo="true" ref="sesion-solemne-2011"/>
+    <file name="13365x268.jpg" crc="62325165" seo="true" ref="sesion-solemne-2011"/>
+    <file name="15.jpg" crc="4255486119" seo="true" ref="sesion-solemne-2011"/>
+    <file name="16.jpg" crc="442829660" seo="true" ref="sesion-solemne-2011"/>
+    <file name="19.jpg" crc="383053083" seo="true" ref="sesion-solemne-2011"/>
+    <file name="02135x59.jpg" crc="147347005" seo="true" ref="sesion-solemne-2011"/>
+    <file name="03113x102.jpg" crc="3855085670" seo="true" ref="sesion-solemne-2011"/>
+    <file name="05152x102.jpg" crc="4147342256" seo="true" ref="sesion-solemne-2011"/>
+    <file name="06152x102.jpg" crc="451230750" seo="true" ref="sesion-solemne-2011"/>
+    <file name="0870x102.jpg" crc="3916402016" seo="true" ref="sesion-solemne-2011"/>
+    <file name="1170x52.jpg" crc="4290225851" seo="true" ref="sesion-solemne-2011"/>
+    <file name="12138x102.jpg" crc="160055733" seo="true" ref="sesion-solemne-2011"/>
+    <file name="14130x96.jpg" crc="3993445424" seo="true" ref="sesion-solemne-2011"/>
+    <file name="15138x102.jpg" crc="332351199" seo="true" ref="sesion-solemne-2011"/>
+    <file name="16138x102.jpg" crc="4219947984" seo="true" ref="sesion-solemne-2011"/>
+    <file name="18133x98.jpg" crc="519608182" seo="true" ref="sesion-solemne-2011"/>
+    <file name="19138x102.jpg" crc="3949880248" seo="true" ref="sesion-solemne-2011"/>
+    <file name="fill 9-u19954.png" crc="100910759" ref="textos-sugeridos"/>
+    <file name="portadalibro2.jpg" crc="3791586744" seo="true" ref="textos-sugeridos:galerias-pag2"/>
+    <file name="portada-libro-1.jpg" crc="4222097607" seo="true" ref="textos-sugeridos"/>
+    <file name="portada 001.jpg" crc="3912429097" ref="textos-sugeridos"/>
+    <file name="portada 2.jpg" crc="3847832713" ref="textos-sugeridos"/>
+    <file name="fill 9-u19885.png" crc="100910759" ref="textos-sugeridos"/>
+    <file name="enrique sierra p1-u20161-fr.jpg" crc="24405280" ref="textos-sugeridos"/>
+    <file name="libro pjr.jpg" crc="336856950" ref="textos-sugeridos"/>
+    <file name="fill 5-u20600.png" crc="4004712274" ref="textos-sugeridos"/>
+    <file name="fill 9-u20574.png" crc="100910759" ref="textos-sugeridos,-pag-2"/>
+    <file name="libro economia solidaria.jpg" crc="4050028391" ref="textos-sugeridos,-pag-2"/>
+    <file name="fill 9-u20441.png" crc="100910759" ref="textos-sugeridos,-pag-2"/>
+    <file name="portadalibro3wm.jpg" crc="392032223" ref="textos-sugeridos,-pag-2"/>
+    <file name="portada etica.jpg" crc="3963938857" ref="textos-sugeridos,-pag-2"/>
+    <file name="fill 9-u20449.png" crc="100910759" ref="textos-sugeridos,-pag-2"/>
+    <file name="matrizproductiva.jpg" crc="434952147" ref="textos-sugeridos,-pag-2"/>
+    <file name="matrizproductiva01.jpg" crc="4164065229" ref="textos-sugeridos,-pag-2"/>
+    <file name="fill 9-u25020.png" crc="100910759" ref="textos-sugeridos,-pag-2"/>
+    <file name="libro eco lorenzo armijos p1.jpg" crc="4004879327" ref="textos-sugeridos,-pag-2"/>
+    <file name="libro eco lorenzo armijos p2.jpg" crc="187506850" ref="textos-sugeridos,-pag-2"/>
+    <file name="fill 9-u20447.png" crc="100910759" ref="textos-sugeridos,-pag-2"/>
+    <file name="libro-proyeccion-2020.gif" crc="3844355293" ref="textos-sugeridos,-pag-2"/>
+    <file name="fill 9-u21313.png" crc="97442580" ref="econ.-eduardo-santos,-p2"/>
+    <file name="u21315_states.png" crc="477496516" ref="econ.-eduardo-santos,-p2"/>
+    <file name="u21315_states-r.png" crc="4181859930" ref="econ.-eduardo-santos,-p2"/>
+    <file name="u21301-4.png" crc="3781451527" ref="econ.-eduardo-santos,-p2"/>
+    <file name="home-favicon.ico" crc="121097838" ref="index"/>
+    <file name="fronted-0.jpg" crc="4242417939" seo="true" ref="index"/>
+    <file name="fronted-1.jpg" crc="260423685" seo="true" ref="index"/>
+    <file name="fronted-2.jpg" crc="4060958078" seo="true" ref="index"/>
+    <file name="fronted.jpg" crc="3887895041" seo="true" ref="index"/>
+    <file name="fronted-3.jpg" crc="4282383299" seo="true" ref="index"/>
+    <file name="debateslide.jpg" crc="3923592758" seo="true" ref="index"/>
+    <file name="fronted-4.jpg" crc="3827675320" seo="true" ref="index"/>
+    <file name="fronted-7.jpg" crc="3881598611" seo="true" ref="index"/>
+    <file name="fronted-8.jpg" crc="4119727965" seo="true" ref="index"/>
+    <file name="u21384-4.png" crc="4084606316" ref="index"/>
+    <file name="u21386-4.png" crc="179724756" ref="index"/>
+    <file name="u21388-4.png" crc="119960482" ref="index"/>
+    <file name="u21382-4.png" crc="3807097097" ref="index"/>
+    <file name="u21431-4.png" crc="503137035" ref="index"/>
+    <file name="u21383-6.png" crc="3803534967" ref="index"/>
+    <file name="u23520-4.png" crc="483034823" ref="index"/>
+    <file name="libro matriz productiva-u23513-fr.jpg" crc="4111478814" ref="index"/>
+    <file name="iconnew-u23522-fr.png" crc="3867115493" ref="index"/>
+    <file name="btn01-u21381-fr.png" crc="3823676586" ref="index"/>
+    <file name="u21370_states.png" crc="6510893" ref="index"/>
+    <file name="u21370_states-r.png" crc="297686842" ref="index"/>
+    <file name="u22638-6.png" crc="3905114027" ref="index"/>
+    <file name="btn02-u21368-fr.png" crc="3904520031" ref="index"/>
+    <file name="u21367_states.png" crc="4187886857" ref="index"/>
+    <file name="u21367_states-r.png" crc="407864885" ref="index"/>
+    <file name="u24076-4.png" crc="470068234" ref="index"/>
+    <file name="btn03-u21355-fr.png" crc="3860200167" ref="index"/>
+    <file name="u21387_states.png" crc="3839175196" ref="index"/>
+    <file name="u21387_states-r.png" crc="45340346" ref="index"/>
+    <file name="u24419-4.png" crc="108352804" ref="index"/>
+    <file name="u22256-4.png" crc="4179261843" ref="index"/>
+    <file name="aen26-u22248-fr.jpg" crc="4091486657" ref="index"/>
+    <file name="u24606-4.png" crc="277061362" ref="index"/>
+    <file name="u25065-4.png" crc="4161934070" ref="index"/>
+    <file name="btn04-u21430-fr.png" crc="464644653" ref="index"/>
+    <file name="u21380_states.png" crc="329489083" ref="index"/>
+    <file name="u21380_states-r.png" crc="3973197628" ref="index"/>
+    <file name="btndatos-u25048-fr.png" crc="160614534" ref="index"/>
+    <file name="fill 9-u21585.png" crc="100910759" ref="textos-sugeridos,-pag-3"/>
+    <file name="fill 9-u21499.png" crc="100910759" ref="textos-sugeridos,-pag-3"/>
+    <file name="koyuntura.png" crc="3812898433" ref="textos-sugeridos,-pag-3"/>
+    <file name="thepanchonomist.jpg" crc="115130962" ref="textos-sugeridos,-pag-3"/>
+    <file name="logoekos.jpg" crc="44947663" ref="textos-sugeridos,-pag-3"/>
+    <file name="fill 9-u21503.png" crc="100910759" ref="textos-sugeridos,-pag-3"/>
+    <file name="boletin_clip_image001.jpg" crc="4027086239" ref="textos-sugeridos,-pag-3"/>
+    <file name="rcm.jpg" crc="482722085" ref="textos-sugeridos,-pag-3"/>
+    <file name="u21531-4.png" crc="216246724" ref="textos-sugeridos,-pag-3"/>
+    <file name="u21757-4.png" crc="4105273616" ref="galerias-pag2"/>
+    <file name="u21622-4.png" crc="4272350650" ref="galerias-pag2"/>
+    <file name="u21770-4.png" crc="4239145819" ref="galerias-pag2"/>
+    <file name="portada.jpg" crc="3891519377" ref="galerias-pag2"/>
+    <file name="u21640-4.png" crc="4138014361" ref="galerias-pag2"/>
+    <file name="u21736-4.png" crc="3986638702" ref="galerias-pag2"/>
+    <file name="82.jpg" crc="3837451765" seo="true" ref="galerias-pag2"/>
+    <file name="162.jpg" crc="3763175522" seo="true" ref="galerias-pag2"/>
+    <file name="9.jpg" crc="484125780" seo="true" ref="galerias-pag2"/>
+    <file name="043.jpg" crc="332843575" seo="true" ref="galerias-pag2"/>
+    <file name="112.jpg" crc="337209558" seo="true" ref="galerias-pag2"/>
+    <file name="012.jpg" crc="3815061399" seo="true" ref="galerias-pag2"/>
+    <file name="023.jpg" crc="202774497" seo="true" ref="galerias-pag2"/>
+    <file name="034.jpg" crc="4000346081" seo="true" ref="galerias-pag2"/>
+    <file name="8229x129.jpg" crc="80483148" seo="true" ref="galerias-pag2"/>
+    <file name="16229x129.jpg" crc="188902076" seo="true" ref="galerias-pag2"/>
+    <file name="989x139.jpg" crc="4062489181" seo="true" ref="galerias-pag2"/>
+    <file name="04108x139.jpg" crc="4172745468" seo="true" ref="galerias-pag2"/>
+    <file name="1178x139.jpg" crc="402505110" seo="true" ref="galerias-pag2"/>
+    <file name="0179x139.jpg" crc="3849656262" seo="true" ref="galerias-pag2"/>
+    <file name="02229x129.jpg" crc="464851139" seo="true" ref="galerias-pag2"/>
+    <file name="03229x106.jpg" crc="4258267956" seo="true" ref="galerias-pag2"/>
+    <file name="u22658-4.png" crc="4105273616" ref="galerias,-copias"/>
+    <file name="u22454-4.png" crc="4272350650" ref="galerias,-copias"/>
+    <file name="u22499-6.png" crc="3859609906" ref="galerias,-copias"/>
+    <file name="u22497-4.png" crc="4138014361" ref="galerias,-copias"/>
+    <file name="u22494-5.png" crc="28870746" ref="galerias,-copias"/>
+    <file name="dsc_8663.jpg" crc="262794377" seo="true" ref="galerias,-copias"/>
+    <file name="dsc_8665.jpg" crc="507985778" seo="true" ref="galerias,-copias"/>
+    <file name="dsc_8700.jpg" crc="257106615" seo="true" ref="galerias,-copias"/>
+    <file name="dsc_8708.jpg" crc="492347469" seo="true" ref="galerias,-copias"/>
+    <file name="dscn8427.jpg" crc="103016792" seo="true" ref="galerias,-copias"/>
+    <file name="dscn8433.jpg" crc="226518657" seo="true" ref="galerias,-copias"/>
+    <file name="dsc_8663228x152.jpg" crc="4022815076" seo="true" ref="galerias,-copias"/>
+    <file name="dsc_8665228x152.jpg" crc="11143267" seo="true" ref="galerias,-copias"/>
+    <file name="dsc_8700228x152.jpg" crc="4119624997" seo="true" ref="galerias,-copias"/>
+    <file name="dsc_8708228x152.jpg" crc="69363955" seo="true" ref="galerias,-copias"/>
+    <file name="dscn8427228x171.jpg" crc="3875678315" seo="true" ref="galerias,-copias"/>
+    <file name="dscn8433228x171.jpg" crc="225363314" seo="true" ref="galerias,-copias"/>
+    <file name="fill 9-u23557.png" crc="100910759" ref="lecturas-recomendadas"/>
+    <file name="fill 9-u24552.png" crc="100910759" ref="aportes-para-estudio"/>
+    <file name="apor1.jpg" crc="434929762" seo="true" ref="otros-aportes-del-cep"/>
+    <file name="apor2.jpg" crc="4102511312" seo="true" ref="otros-aportes-del-cep"/>
+    <file name="apor3.jpg" crc="332686358" seo="true" ref="otros-aportes-del-cep"/>
+    <file name="fill 9-u24634.png" crc="100910759" ref="otros-aportes-del-cep"/>
+  </folder>
+  <file name="contact.html" crc="4260445792" seo="true" mt="1434114959279" redirect="true"/>
+  <file name="la-institucion.html" crc="4253035601" seo="true" mt="1441632348569" redirect="true"/>
+  <file name="links.html" crc="3851255999" seo="true" mt="1433969246027" redirect="true"/>
+  <file name="biblioteca-virtual.html" crc="3975547503" seo="true" mt="1442247152290" redirect="true"/>
+  <file name="presidentes.html" crc="356143304" seo="true" mt="1433969246027" redirect="true"/>
+  <file name="eventos.html" crc="3869622984" seo="true" mt="1440101477446" redirect="true"/>
+  <file name="capacitacion.html" crc="225744444" seo="true" mt="1434115225449" redirect="true"/>
+  <file name="econ.-eduardo-santos.html" crc="3947001167" seo="true" mt="1433969246027" redirect="true"/>
+  <file name="aviso-importante.html" crc="150346448" seo="true" mt="1433969246027" redirect="true"/>
+  <file name="sesion-solemne-2013.html" crc="387843971" seo="true" mt="1434115050985" redirect="true"/>
+  <file name="sesion-solemne-2012.html" crc="4007650110" seo="true" mt="1442247158816" redirect="true"/>
+  <file name="sesion-solemne-2011.html" crc="4043430260" seo="true" mt="1442247123177" redirect="true"/>
+  <file name="textos-sugeridos.html" crc="4070804771" seo="true" mt="1434115713316" redirect="true"/>
+  <file name="textos-sugeridos,-pag-2.html" crc="19823787" seo="true" mt="1437489133626" redirect="true"/>
+  <file name="econ.-eduardo-santos,-p2.html" crc="4117676208" seo="true" mt="1433969246027" redirect="true"/>
+  <file name="index.html" crc="3910883999" seo="true" mt="1442247871783" redirect="true"/>
+  <file name="textos-sugeridos,-pag-3.html" crc="4056429387" seo="true" mt="1433969246027" redirect="true"/>
+  <file name="galerias-pag2.html" crc="3826813776" seo="true" mt="1437483906784" redirect="true"/>
+  <file name="galerias,-copias.html" crc="4208796207" seo="true" mt="1433969246027" redirect="true"/>
+  <file name="lecturas-recomendadas.html" crc="211731358" seo="true" mt="1434113729022" redirect="true"/>
+  <file name="aportes-para-estudio.html" crc="493648964" seo="true" mt="1433970338121" redirect="true"/>
+  <file name="otros-aportes-del-cep.html" crc="4281679636" seo="true" mt="1434113672456" redirect="true"/>
+</manifest>

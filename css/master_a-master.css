@@ -1,0 +1,34 @@
+#u523
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u524
+{
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background: transparent url("../images/captura%20de%20pantalla%202014-03-14%20a%20la(s)%20164933.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u525-4
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
+#u526-4,#u527-4,#u528-4,#u529-4,#u530-4
+{
+	position: fixed;
+}
+
+#u526-4_img,#u527-4_img,#u528-4_img,#u529-4_img,#u530-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+

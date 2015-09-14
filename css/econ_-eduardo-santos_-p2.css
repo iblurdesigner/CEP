@@ -1,0 +1,301 @@
+.version.econ__eduardo_santos__p2 /* version checker */
+{
+	color: #0000F7;
+	background-color: #BBF579;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/puntos.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 799.5500000000002px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 187px;
+	padding-bottom: 58px;
+	width: 0.01px;
+}
+
+#u523
+{
+	z-index: 302;
+	height: 127px;
+}
+
+#u523-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 302;
+	top: 0px;
+}
+
+#u524
+{
+	z-index: 303;
+	width: 121px;
+	height: 93px;
+	top: 15px;
+	left: 149px;
+}
+
+#u525-4
+{
+	z-index: 304;
+	top: 29px;
+	left: 407px;
+}
+
+#u526-4
+{
+	z-index: 308;
+	top: 74px;
+	left: 315px;
+}
+
+#u527-4
+{
+	z-index: 312;
+	top: 74px;
+	left: 393px;
+}
+
+#u528-4
+{
+	z-index: 316;
+	top: 74px;
+	left: 532px;
+}
+
+#u529-4
+{
+	z-index: 320;
+	top: 74px;
+	left: 760px;
+}
+
+#u530-4
+{
+	z-index: 324;
+	top: 74px;
+	left: 922px;
+}
+
+#u21312
+{
+	z-index: 289;
+	width: 163px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 142px;
+	right: 63px;
+}
+
+#u21313
+{
+	z-index: 293;
+	-webkit-transform: matrix(0,1,-1,0,60,-1);
+	-ms-transform: matrix(0,1,-1,0,60,-1);
+	transform: matrix(0,1,-1,0,60,-1);
+	position: relative;
+	width: 60px;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u21313_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u21315
+{
+	z-index: 291;
+	position: relative;
+	width: 97px;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 66px;
+}
+
+#u21315_states
+{
+	height: 33px;
+	width: 97px;
+	vertical-align: top;
+	background: url("../images/u21315_states.png") no-repeat 0px 0px;
+}
+
+#u21315:hover #u21315_states
+{
+	background: url("../images/u21315_states-r.png") no-repeat 0px 0px;
+}
+
+#u21304
+{
+	z-index: 2;
+	width: 714px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #E4A10B;
+	border-radius: 10px 10px 0px 0px ;
+	padding-bottom: 2px;
+	margin-left: 250px;
+	position: relative;
+}
+
+#u21301-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 24px;
+}
+
+#u21305
+{
+	z-index: 7;
+	width: 611px;
+	height: 4px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #E4A10B;
+	margin-left: 519px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#ppu21302
+{
+	width: 0.01px;
+	margin-left: 250px;
+	margin-top: 12px;
+}
+
+#pu21302
+{
+	z-index: 8;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u21302
+{
+	z-index: 0;
+	width: 880px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.74;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=74)";
+	filter: alpha(opacity=74);
+	border-radius: 10px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu21316-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 59px;
+	padding-top: 21px;
+	z-index: 2;
+	padding-bottom: 1187px;
+}
+
+#u21316-4
+{
+	z-index: 285;
+	width: 401px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #E4A10B;
+	line-height: 19px;
+	font-size: 16px;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u21311-276
+{
+	z-index: 9;
+	width: 820px;
+	min-height: 1020px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 57px;
+	left: 59px;
+}
+
+#u21311-4,#u21311-8,#u21311-12,#u21311-16,#u21311-20,#u21311-24,#u21311-28,#u21311-32,#u21311-36,#u21311-40,#u21311-44,#u21311-48,#u21311-52,#u21311-56,#u21311-60,#u21311-64,#u21311-68,#u21311-72,#u21311-76,#u21311-80,#u21311-84,#u21311-88,#u21311-92,#u21311-96,#u21311-100,#u21311-104,#u21311-108,#u21311-112,#u21311-116,#u21311-120,#u21311-124,#u21311-128,#u21311-132,#u21311-136,#u21311-140,#u21311-144,#u21311-148,#u21311-152,#u21311-156,#u21311-160,#u21311-164,#u21311-168,#u21311-172,#u21311-176,#u21311-180,#u21311-184,#u21311-188,#u21311-192,#u21311-196,#u21311-200,#u21311-204,#u21311-208,#u21311-212,#u21311-216,#u21311-220,#u21311-224,#u21311-228,#u21311-233,#u21311-237,#u21311-241,#u21311-245,#u21311-249,#u21311-253,#u21311-257,#u21311-261,#u21311-265,#u21311-269,#u21311-273
+{
+	color: #FFFFFF;
+}
+
+#u21310-3
+{
+	z-index: 295;
+	width: 5px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 222px;
+	left: 1131px;
+}
+
+#u21337-4
+{
+	z-index: 298;
+	width: 124px;
+	min-height: 28px;
+	background-color: transparent;
+	color: #E4A10B;
+	line-height: 24px;
+	font-size: 20px;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1188px;
+	left: 756px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

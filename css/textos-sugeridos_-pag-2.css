@@ -1,0 +1,1114 @@
+.version.textos_sugeridos__pag_2 /* version checker */
+{
+	color: #00000B;
+	background-color: #1016D9;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/fondo04.jpg") repeat-y left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 800px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 58px;
+	width: 0.01px;
+}
+
+#u523
+{
+	z-index: 159;
+	height: 127px;
+}
+
+#u523-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 159;
+	top: 0px;
+}
+
+#pvarios
+{
+	width: 0.01px;
+	margin-left: 9px;
+}
+
+#varios,#inibibliotextsug
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+}
+
+#u524
+{
+	z-index: 160;
+	width: 121px;
+	height: 93px;
+	top: 15px;
+	left: 149px;
+}
+
+#u525-4
+{
+	z-index: 161;
+	top: 29px;
+	left: 407px;
+}
+
+#econfernandolarreaestrada
+{
+	margin-left: 9px;
+	margin-top: 49px;
+	position: relative;
+}
+
+#pu526-4
+{
+	width: 0.01px;
+	padding-bottom: 17px;
+	margin-left: 315px;
+	margin-top: -11px;
+}
+
+#u526-4
+{
+	z-index: 165;
+	top: 74px;
+	left: 315px;
+}
+
+#u527-4
+{
+	z-index: 169;
+	top: 74px;
+	left: 393px;
+}
+
+#u528-4
+{
+	z-index: 173;
+	top: 74px;
+	left: 532px;
+}
+
+#u529-4
+{
+	z-index: 177;
+	top: 74px;
+	left: 760px;
+}
+
+#u530-4
+{
+	z-index: 181;
+	top: 74px;
+	left: 922px;
+}
+
+#u20567
+{
+	z-index: 143;
+	width: 220px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 62px;
+	position: fixed;
+	top: 87px;
+	left: 0px;
+}
+
+#u20568
+{
+	z-index: 144;
+	width: 220px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 87px;
+	left: 0px;
+}
+
+#pu20569
+{
+	z-index: 145;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u20569
+{
+	z-index: 0;
+	width: 220px;
+	-pie-box-shadow: none;
+	box-shadow: 8px 8px 8px rgba(0,0,0,0.23);
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.45;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=45)";
+	filter: alpha(opacity=45);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu20573-4
+{
+	width: 0.01px;
+	position: relative;
+	left: 66px;
+	padding-top: 114px;
+	z-index: 2;
+	padding-bottom: 58px;
+}
+
+#u20573-4
+{
+	z-index: 148;
+	width: 105px;
+	min-height: 24px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	margin-left: 15px;
+	position: relative;
+}
+
+#u20573-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	width: 105px;
+	margin: 0px 0px 0px 15px;
+}
+
+#u20570
+{
+	z-index: 146;
+	width: 130px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u20571
+{
+	z-index: 147;
+	width: 130px;
+	height: 3px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #EAAB2A;
+	opacity: 0.47;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=47)";
+	filter: alpha(opacity=47);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u20572-4
+{
+	z-index: 152;
+	width: 110px;
+	min-height: 45px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	margin-left: 34px;
+	margin-top: 448px;
+	position: relative;
+}
+
+#u20572-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 45px;
+	width: 110px;
+	margin: 448px 0px 0px 34px;
+}
+
+#u20573-4:hover p,#u20572-4:hover p
+{
+	color: #D11216;
+	visibility: inherit;
+}
+
+#u20574
+{
+	z-index: 156;
+	-webkit-transform: matrix(0,1,-1,0,60,-1);
+	-ms-transform: matrix(0,1,-1,0,60,-1);
+	transform: matrix(0,1,-1,0,60,-1);
+	position: relative;
+	width: 60px;
+	margin-right: -10000px;
+	margin-top: 576px;
+	left: 32px;
+}
+
+#pu20497
+{
+	width: 0.01px;
+	margin-left: 235px;
+	margin-top: 66px;
+}
+
+#u20497
+{
+	z-index: 29;
+	width: 580px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	border-radius: 10px 10px 0px 0px ;
+	padding-bottom: 4px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+}
+
+#u20491-4
+{
+	z-index: 37;
+	width: 570px;
+	min-height: 32px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 20px;
+}
+
+#u21614-10
+{
+	z-index: 41;
+	width: 177px;
+	min-height: 39px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	position: relative;
+	margin-right: -10000px;
+	left: 788px;
+}
+
+#u20475
+{
+	z-index: 10;
+	width: 571px;
+	height: 4px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-left: 524px;
+	top: -5px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#pu20513
+{
+	width: 0.01px;
+	margin-left: 230px;
+	margin-top: 26px;
+}
+
+#u20513
+{
+	z-index: 89;
+	width: 180px;
+	height: 259px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/libro%20economia%20solidaria.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u20520-8
+{
+	z-index: 97;
+	width: 440px;
+	min-height: 57px;
+	background-color: transparent;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 195px;
+	left: 240px;
+}
+
+#pu20519
+{
+	width: 0.01px;
+	margin-left: 231px;
+	margin-top: 42px;
+}
+
+#u20519
+{
+	z-index: 30;
+	width: 580px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	border-radius: 10px 10px 0px 0px ;
+	padding-bottom: 2px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#u20525-4
+{
+	z-index: 61;
+	width: 566px;
+	min-height: 54px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 20px;
+}
+
+#u20441
+{
+	z-index: 2;
+	-webkit-transform: matrix(-1,0,0,-1,60,59);
+	-ms-transform: matrix(-1,0,0,-1,60,59);
+	transform: matrix(-1,0,0,-1,60,59);
+	position: relative;
+	width: 60px;
+	margin-right: -10000px;
+	left: 781px;
+}
+
+#u20474
+{
+	z-index: 11;
+	width: 571px;
+	height: 4px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-left: 519px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#u20551
+{
+	z-index: 90;
+	width: 180px;
+	height: 259px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/portadalibro3wm.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u20504-6
+{
+	z-index: 105;
+	width: 440px;
+	min-height: 57px;
+	background-color: transparent;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 195px;
+	left: 236px;
+}
+
+#u20496
+{
+	z-index: 31;
+	width: 580px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	border-radius: 10px 10px 0px 0px ;
+	margin-left: 231px;
+	margin-top: 44px;
+	position: relative;
+}
+
+#u20512-4
+{
+	z-index: 65;
+	width: 569px;
+	min-height: 56px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 20px;
+}
+
+#u20462
+{
+	z-index: 12;
+	width: 571px;
+	height: 4px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-left: 520px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#u20542
+{
+	z-index: 91;
+	width: 180px;
+	height: 259px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/portada%20etica.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u20523-4
+{
+	z-index: 111;
+	width: 440px;
+	min-height: 57px;
+	background-color: transparent;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 195px;
+	left: 236px;
+}
+
+#pu20546
+{
+	width: 0.01px;
+	margin-left: 231px;
+	margin-top: 23px;
+}
+
+#u20546
+{
+	z-index: 32;
+	width: 580px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	border-radius: 10px 10px 0px 0px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u20545-4
+{
+	z-index: 69;
+	width: 569px;
+	min-height: 56px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 20px;
+}
+
+#u20449
+{
+	z-index: 4;
+	-webkit-transform: matrix(-1,0,0,-1,60,59);
+	-ms-transform: matrix(-1,0,0,-1,60,59);
+	transform: matrix(-1,0,0,-1,60,59);
+	position: relative;
+	width: 60px;
+	margin-right: -10000px;
+	left: 780px;
+}
+
+#u20473
+{
+	z-index: 13;
+	width: 571px;
+	height: 4px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-left: 520px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#u20534
+{
+	z-index: 92;
+	width: 180px;
+	height: 259px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/matrizproductiva.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u20498
+{
+	z-index: 94;
+	width: 180px;
+	height: 259px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 200px;
+	background: transparent url("../images/matrizproductiva01.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u20515-6
+{
+	z-index: 115;
+	width: 440px;
+	min-height: 57px;
+	background-color: transparent;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 194px;
+	left: 400px;
+}
+
+#pu25016
+{
+	width: 0.01px;
+	margin-left: 231px;
+	margin-top: 40px;
+}
+
+#u25016
+{
+	z-index: 33;
+	width: 580px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	border-radius: 10px 10px 0px 0px ;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u25015-4
+{
+	z-index: 73;
+	width: 569px;
+	min-height: 56px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 20px;
+}
+
+#u25020
+{
+	z-index: 6;
+	-webkit-transform: matrix(-1,0,0,-1,60,59);
+	-ms-transform: matrix(-1,0,0,-1,60,59);
+	transform: matrix(-1,0,0,-1,60,59);
+	position: relative;
+	width: 60px;
+	margin-right: -10000px;
+	left: 780px;
+}
+
+#u25017
+{
+	z-index: 14;
+	width: 571px;
+	height: 4px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-left: 520px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#pu20551,#pu20542,#pu20534,#pu25018
+{
+	width: 0.01px;
+	margin-left: 230px;
+	margin-top: 27px;
+}
+
+#u25018
+{
+	z-index: 93;
+	width: 180px;
+	height: 259px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/libro%20eco%20lorenzo%20armijos%20p1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u25019
+{
+	z-index: 95;
+	width: 180px;
+	height: 259px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 200px;
+	background: transparent url("../images/libro%20eco%20lorenzo%20armijos%20p2.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u25023-6
+{
+	z-index: 121;
+	width: 440px;
+	min-height: 57px;
+	background-color: transparent;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 194px;
+	left: 400px;
+}
+
+#pu20526
+{
+	width: 0.01px;
+	margin-left: 231px;
+	margin-top: 19px;
+}
+
+#u20526
+{
+	z-index: 34;
+	width: 580px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	border-radius: 10px 10px 0px 0px ;
+	padding-bottom: 1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 30px;
+}
+
+#u20561-4
+{
+	z-index: 77;
+	width: 569px;
+	min-height: 33px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 20px;
+}
+
+#u20447
+{
+	z-index: 8;
+	-webkit-transform: matrix(-1,0,0,-1,60,59);
+	-ms-transform: matrix(-1,0,0,-1,60,59);
+	transform: matrix(-1,0,0,-1,60,59);
+	position: relative;
+	width: 60px;
+	margin-right: -10000px;
+	left: 780px;
+}
+
+#u20574_img,#u20441_img,#u20449_img,#u25020_img,#u20447_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u20470
+{
+	z-index: 15;
+	width: 571px;
+	height: 4px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-left: 520px;
+	top: -3px;
+	margin-bottom: -3px;
+	position: relative;
+}
+
+#pkoyuntura
+{
+	width: 0.01px;
+	margin-left: 94px;
+	margin-top: 27px;
+}
+
+#koyuntura
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 160px;
+}
+
+#u20548
+{
+	z-index: 96;
+	width: 180px;
+	height: 259px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 136px;
+	background: transparent url("../images/libro-proyeccion-2020.gif") no-repeat left top;
+	background-size: contain;
+}
+
+#u20487
+{
+	z-index: 35;
+	width: 580px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	border-radius: 10px 10px 0px 0px ;
+	padding-bottom: 1px;
+	margin-left: 231px;
+	margin-top: 28px;
+	position: relative;
+}
+
+#u20531-4
+{
+	z-index: 81;
+	width: 569px;
+	min-height: 33px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 20px;
+}
+
+#u20476
+{
+	z-index: 16;
+	width: 571px;
+	height: 4px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-left: 520px;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#pu20556-6
+{
+	width: 0.01px;
+	margin-left: 230px;
+	margin-top: 23px;
+}
+
+#u20556-6
+{
+	z-index: 127;
+	width: 285px;
+	min-height: 45px;
+	background-color: transparent;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u20466
+{
+	z-index: 17;
+	width: 141px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 320px;
+}
+
+#u20467
+{
+	z-index: 18;
+	width: 141px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	padding-bottom: 7px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u20468-4
+{
+	z-index: 19;
+	width: 112px;
+	min-height: 23px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: volkhov, serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 13px;
+}
+
+#panchonomist
+{
+	margin-left: 91px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u20540
+{
+	z-index: 36;
+	width: 580px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	border-radius: 10px 10px 0px 0px ;
+	padding-bottom: 1px;
+	margin-left: 227px;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u20536-4
+{
+	z-index: 85;
+	width: 569px;
+	min-height: 33px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 20px;
+}
+
+#u20491,#u20525,#u20512,#u20545,#u25015,#u20561,#u20531,#u20536
+{
+	font-family: volkhov, serif;
+	font-weight: 400;
+}
+
+#pu20505-6
+{
+	width: 0.01px;
+	margin-left: 226px;
+	margin-top: 23px;
+}
+
+#u20505-6
+{
+	z-index: 133;
+	width: 285px;
+	min-height: 45px;
+	background-color: transparent;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u20463
+{
+	z-index: 23;
+	width: 141px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 320px;
+}
+
+#u20464
+{
+	z-index: 24;
+	width: 141px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	padding-bottom: 7px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u20465-4
+{
+	z-index: 25;
+	width: 112px;
+	min-height: 23px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: volkhov, serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 13px;
+}
+
+#u21616-10
+{
+	z-index: 51;
+	width: 177px;
+	min-height: 39px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: left;
+	font-size: 22px;
+	font-family: Gill Sans Bold;
+	margin-left: 503px;
+	margin-top: 45px;
+	position: relative;
+}
+
+#u21614-8,#u21616-8
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u21614-2,#u21614-4,#u21616-2,#u21616-4
+{
+	font-family: volkhov, serif;
+	font-weight: 400;
+	line-height: 26px;
+}
+
+#u21614,#u21614-5,#u21616,#u21616-5
+{
+	font-size: 30px;
+	font-family: volkhov, serif;
+	font-weight: 400;
+	line-height: 36px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
